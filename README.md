@@ -285,7 +285,7 @@ Os testes verificam:
 
 ## Relatório
 
-O arquivo [`Relatorio_Jogo_da_Velha.docx`](Relatorio_Jogo_da_Velha.docx) contém:
+O arquivo [`Relatorio_Jogo_da_Velha.pdf`](Relatorio_Jogo_da_Velha.pdf) contém:
 
 1. Introdução
 2. Formulação do problema
