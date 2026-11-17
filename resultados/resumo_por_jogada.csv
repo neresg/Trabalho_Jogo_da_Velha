@@ -1,0 +1,19 @@
+﻿cenario;algoritmo;n_jogada_computador;qtd_decisoes;nos_medio;nos_min;nos_max;tempo_medio_ms;tempo_max_ms
+Computador começa;Minimax;1;1;549946.0;549946;549946;606.8133;606.8133
+Computador começa;Minimax;2;8;7463.0;6380;8232;8.3958;10.9371
+Computador começa;Minimax;3;48;154.0;98;258;0.1656;0.4332
+Computador começa;Minimax;4;60;8.6;4;14;0.0081;0.0217
+Computador começa;Minimax;5;16;2.0;2;2;0.0014;0.0022
+Computador começa;Poda Alfa-Beta;1;1;18297.0;18297;18297;22.6924;22.6924
+Computador começa;Poda Alfa-Beta;2;8;511.1;335;844;0.7495;1.3619
+Computador começa;Poda Alfa-Beta;3;48;46.2;10;101;0.0589;0.1844
+Computador começa;Poda Alfa-Beta;4;60;7.6;4;12;0.0079;0.0245
+Computador começa;Poda Alfa-Beta;5;16;2.0;2;2;0.0014;0.0022
+Humano começa;Minimax;1;9;61105.0;55505;63905;67.4531;79.5378
+Humano começa;Minimax;2;63;1139.5;831;1585;1.3279;2.5612
+Humano começa;Minimax;3;315;42.0;24;65;0.0480;0.1112
+Humano começa;Minimax;4;549;4.2;3;5;0.0042;0.0093
+Humano começa;Poda Alfa-Beta;1;9;3412.1;2316;4981;4.7769;7.7624
+Humano começa;Poda Alfa-Beta;2;63;294.3;53;671;0.4004;0.9650
+Humano começa;Poda Alfa-Beta;3;315;26.9;8;51;0.0357;0.1009
+Humano começa;Poda Alfa-Beta;4;549;4.2;3;5;0.0044;0.0106

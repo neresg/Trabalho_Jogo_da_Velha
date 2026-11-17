@@ -1,0 +1,3 @@
+# Somente necessário para gerar os gráficos (experimentos.py).
+# O jogo (jogo.py) e os testes (testes.py) usam apenas a biblioteca padrão do Python.
+matplotlib

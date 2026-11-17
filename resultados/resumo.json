@@ -1,0 +1,248 @@
+{
+  "ambiente": {
+    "python": "3.12.3",
+    "sistema": "Linux 6.18.44-fc-v553",
+    "processador": "x86_64",
+    "repeticoes_tempo": 3
+  },
+  "cenarios": {
+    "computador_comeca": {
+      "rotulo": "Computador começa",
+      "partidas": 101,
+      "decisoes": 133,
+      "decisoes_com_mesma_jogada": 133,
+      "resultados": {
+        "vitorias_computador": 99,
+        "empates": 2,
+        "derrotas_computador": 0
+      },
+      "duracao_media_jogadas": 6.663366336633663,
+      "duracao_por_tamanho": {
+        "5": 33,
+        "7": 52,
+        "9": 16
+      },
+      "valor_primeira_jogada": 0,
+      "por_jogada": {
+        "minimax": [
+          {
+            "indice": 1,
+            "decisoes": 1,
+            "nos_medio": 549946.0,
+            "nos_min": 549946,
+            "nos_max": 549946,
+            "tempo_medio_ms": 606.8132979999916,
+            "tempo_max_ms": 606.8132979999916
+          },
+          {
+            "indice": 2,
+            "decisoes": 8,
+            "nos_medio": 7463.0,
+            "nos_min": 6380,
+            "nos_max": 8232,
+            "tempo_medio_ms": 8.39576925000074,
+            "tempo_max_ms": 10.937054000009994
+          },
+          {
+            "indice": 3,
+            "decisoes": 48,
+            "nos_medio": 154.0,
+            "nos_min": 98,
+            "nos_max": 258,
+            "tempo_medio_ms": 0.16561939583207655,
+            "tempo_max_ms": 0.4332199999907971
+          },
+          {
+            "indice": 4,
+            "decisoes": 60,
+            "nos_medio": 8.566666666666666,
+            "nos_min": 4,
+            "nos_max": 14,
+            "tempo_medio_ms": 0.008129383331834106,
+            "tempo_max_ms": 0.021719000017128565
+          },
+          {
+            "indice": 5,
+            "decisoes": 16,
+            "nos_medio": 2.0,
+            "nos_min": 2,
+            "nos_max": 2,
+            "tempo_medio_ms": 0.0014356249966596124,
+            "tempo_max_ms": 0.0022490000048946968
+          }
+        ],
+        "alfabeta": [
+          {
+            "indice": 1,
+            "decisoes": 1,
+            "nos_medio": 18297.0,
+            "nos_min": 18297,
+            "nos_max": 18297,
+            "tempo_medio_ms": 22.692382000002453,
+            "tempo_max_ms": 22.692382000002453
+          },
+          {
+            "indice": 2,
+            "decisoes": 8,
+            "nos_medio": 511.125,
+            "nos_min": 335,
+            "nos_max": 844,
+            "tempo_medio_ms": 0.7495334999951808,
+            "tempo_max_ms": 1.36185900001351
+          },
+          {
+            "indice": 3,
+            "decisoes": 48,
+            "nos_medio": 46.208333333333336,
+            "nos_min": 10,
+            "nos_max": 101,
+            "tempo_medio_ms": 0.05887237500049972,
+            "tempo_max_ms": 0.1844170000140366
+          },
+          {
+            "indice": 4,
+            "decisoes": 60,
+            "nos_medio": 7.566666666666666,
+            "nos_min": 4,
+            "nos_max": 12,
+            "tempo_medio_ms": 0.007941316667370302,
+            "tempo_max_ms": 0.024534000004905465
+          },
+          {
+            "indice": 5,
+            "decisoes": 16,
+            "nos_medio": 2.0,
+            "nos_min": 2,
+            "nos_max": 2,
+            "tempo_medio_ms": 0.0014323125050452745,
+            "tempo_max_ms": 0.0022099999910096813
+          }
+        ]
+      },
+      "por_partida": {
+        "minimax": {
+          "nos_medio": 557676.0495049505,
+          "nos_max": 558436,
+          "tempo_medio_ms": 615.3854049306785,
+          "tempo_max_ms": 618.1876960000068
+        },
+        "alfabeta": {
+          "nos_medio": 18912.40594059406,
+          "nos_max": 19217,
+          "tempo_medio_ms": 23.547128178216553,
+          "tempo_max_ms": 24.146337000019003
+        }
+      }
+    },
+    "humano_comeca": {
+      "rotulo": "Humano começa",
+      "partidas": 681,
+      "decisoes": 936,
+      "decisoes_com_mesma_jogada": 936,
+      "resultados": {
+        "vitorias_computador": 498,
+        "empates": 183,
+        "derrotas_computador": 0
+      },
+      "duracao_media_jogadas": 7.881057268722467,
+      "duracao_por_tamanho": {
+        "6": 132,
+        "8": 366,
+        "9": 183
+      },
+      "valor_primeira_jogada": 0,
+      "por_jogada": {
+        "minimax": [
+          {
+            "indice": 1,
+            "decisoes": 9,
+            "nos_medio": 61105.0,
+            "nos_min": 55505,
+            "nos_max": 63905,
+            "tempo_medio_ms": 67.45313077778152,
+            "tempo_max_ms": 79.53781899999512
+          },
+          {
+            "indice": 2,
+            "decisoes": 63,
+            "nos_medio": 1139.4761904761904,
+            "nos_min": 831,
+            "nos_max": 1585,
+            "tempo_medio_ms": 1.3279475079376166,
+            "tempo_max_ms": 2.561208999992459
+          },
+          {
+            "indice": 3,
+            "decisoes": 315,
+            "nos_medio": 42.02857142857143,
+            "nos_min": 24,
+            "nos_max": 65,
+            "tempo_medio_ms": 0.04800385714364864,
+            "tempo_max_ms": 0.1111600000172075
+          },
+          {
+            "indice": 4,
+            "decisoes": 549,
+            "nos_medio": 4.154826958105646,
+            "nos_min": 3,
+            "nos_max": 5,
+            "tempo_medio_ms": 0.004181382514007601,
+            "tempo_max_ms": 0.009333000008382442
+          }
+        ],
+        "alfabeta": [
+          {
+            "indice": 1,
+            "decisoes": 9,
+            "nos_medio": 3412.1111111111113,
+            "nos_min": 2316,
+            "nos_max": 4981,
+            "tempo_medio_ms": 4.776911999998548,
+            "tempo_max_ms": 7.76237200000196
+          },
+          {
+            "indice": 2,
+            "decisoes": 63,
+            "nos_medio": 294.3174603174603,
+            "nos_min": 53,
+            "nos_max": 671,
+            "tempo_medio_ms": 0.4003506825396262,
+            "tempo_max_ms": 0.9650009999973008
+          },
+          {
+            "indice": 3,
+            "decisoes": 315,
+            "nos_medio": 26.86984126984127,
+            "nos_min": 8,
+            "nos_max": 51,
+            "tempo_medio_ms": 0.035664631744812,
+            "tempo_max_ms": 0.10092799999483759
+          },
+          {
+            "indice": 4,
+            "decisoes": 549,
+            "nos_medio": 4.154826958105646,
+            "nos_min": 3,
+            "nos_max": 5,
+            "tempo_medio_ms": 0.004412389799442557,
+            "tempo_max_ms": 0.01057700001183548
+          }
+        ]
+      },
+      "por_partida": {
+        "minimax": {
+          "nos_medio": 62499.91189427313,
+          "nos_max": 65560,
+          "tempo_medio_ms": 69.41320936858153,
+          "tempo_max_ms": 81.59251099996823
+        },
+        "alfabeta": {
+          "nos_medio": 3800.164464023495,
+          "nos_max": 5708,
+          "tempo_medio_ms": 5.35114637885171,
+          "tempo_max_ms": 8.82847299999412
+        }
+      }
+    }
+  }
+}

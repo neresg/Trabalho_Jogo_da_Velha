@@ -1,0 +1,5 @@
+﻿cenario;algoritmo;partidas;nos_medio_por_partida;nos_max_por_partida;tempo_medio_ms_por_partida;tempo_max_ms_por_partida
+Computador começa;Minimax;101;557676.0;558436;615.385;618.188
+Computador começa;Poda Alfa-Beta;101;18912.4;19217;23.547;24.146
+Humano começa;Minimax;681;62499.9;65560;69.413;81.593
+Humano começa;Poda Alfa-Beta;681;3800.2;5708;5.351;8.828

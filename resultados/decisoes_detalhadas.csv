@@ -1,0 +1,2139 @@
+﻿cenario;algoritmo;n_jogada_computador;tabuleiro_antes;casa_escolhida;valor_minimax;nos_visitados;tempo_ms
+Computador começa;Minimax;1;_________;1;0;549946;606.8133
+Computador começa;Poda Alfa-Beta;1;_________;1;0;18297;22.6924
+Computador começa;Minimax;2;XO_______;4;1;8232;8.7460
+Computador começa;Poda Alfa-Beta;2;XO_______;4;1;749;0.9286
+Computador começa;Minimax;3;XOOX_____;5;1;146;0.1373
+Computador começa;Poda Alfa-Beta;3;XOOX_____;5;1;38;0.0415
+Computador começa;Minimax;4;XOOXXO___;7;1;7;0.0060
+Computador começa;Poda Alfa-Beta;4;XOOXXO___;7;1;6;0.0057
+Computador começa;Minimax;4;XOOXX_O__;6;1;8;0.0070
+Computador começa;Poda Alfa-Beta;4;XOOXX_O__;6;1;6;0.0055
+Computador começa;Minimax;4;XOOXX__O_;6;1;4;0.0023
+Computador começa;Poda Alfa-Beta;4;XOOXX__O_;6;1;4;0.0023
+Computador começa;Minimax;4;XOOXX___O;6;1;7;0.0061
+Computador começa;Poda Alfa-Beta;4;XOOXX___O;6;1;5;0.0037
+Computador começa;Minimax;3;XO_XO____;7;1;157;0.1838
+Computador começa;Poda Alfa-Beta;3;XO_XO____;7;1;60;0.0704
+Computador começa;Minimax;3;XO_X_O___;5;1;182;0.1838
+Computador começa;Poda Alfa-Beta;3;XO_X_O___;5;1;81;0.0966
+Computador começa;Minimax;4;XOOXXO___;7;1;7;0.0059
+Computador começa;Poda Alfa-Beta;4;XOOXXO___;7;1;6;0.0055
+Computador começa;Minimax;4;XO_XXOO__;9;1;12;0.0122
+Computador começa;Poda Alfa-Beta;4;XO_XXOO__;9;1;12;0.0134
+Computador começa;Minimax;4;XO_XXO_O_;3;1;8;0.0072
+Computador começa;Poda Alfa-Beta;4;XO_XXO_O_;3;1;8;0.0077
+Computador começa;Minimax;5;XOXXXOOO_;9;1;2;0.0014
+Computador começa;Poda Alfa-Beta;5;XOXXXOOO_;9;1;2;0.0013
+Computador começa;Minimax;5;XOXXXO_OO;7;1;2;0.0011
+Computador começa;Poda Alfa-Beta;5;XOXXXO_OO;7;1;2;0.0012
+Computador começa;Minimax;4;XO_XXO__O;7;1;11;0.0102
+Computador começa;Poda Alfa-Beta;4;XO_XXO__O;7;1;9;0.0096
+Computador começa;Minimax;3;XO_X__O__;5;1;246;0.2501
+Computador começa;Poda Alfa-Beta;3;XO_X__O__;5;1;89;0.1095
+Computador começa;Minimax;4;XOOXX_O__;6;1;8;0.0068
+Computador começa;Poda Alfa-Beta;4;XOOXX_O__;6;1;6;0.0053
+Computador começa;Minimax;4;XO_XXOO__;9;1;12;0.0122
+Computador começa;Poda Alfa-Beta;4;XO_XXOO__;9;1;12;0.0134
+Computador começa;Minimax;4;XO_XX_OO_;6;1;7;0.0056
+Computador começa;Poda Alfa-Beta;4;XO_XX_OO_;6;1;7;0.0060
+Computador começa;Minimax;4;XO_XX_O_O;6;1;11;0.0100
+Computador começa;Poda Alfa-Beta;4;XO_XX_O_O;6;1;9;0.0087
+Computador começa;Minimax;3;XO_X___O_;5;1;113;0.0993
+Computador começa;Poda Alfa-Beta;3;XO_X___O_;5;1;55;0.0571
+Computador começa;Minimax;4;XOOXX__O_;6;1;4;0.0023
+Computador começa;Poda Alfa-Beta;4;XOOXX__O_;6;1;4;0.0023
+Computador começa;Minimax;4;XO_XXO_O_;3;1;8;0.0066
+Computador começa;Poda Alfa-Beta;4;XO_XXO_O_;3;1;8;0.0081
+Computador começa;Minimax;5;XOXXXOOO_;9;1;2;0.0014
+Computador começa;Poda Alfa-Beta;5;XOXXXOOO_;9;1;2;0.0013
+Computador começa;Minimax;5;XOXXXO_OO;7;1;2;0.0011
+Computador começa;Poda Alfa-Beta;5;XOXXXO_OO;7;1;2;0.0012
+Computador começa;Minimax;4;XO_XX_OO_;6;1;7;0.0068
+Computador começa;Poda Alfa-Beta;4;XO_XX_OO_;6;1;7;0.0091
+Computador começa;Minimax;4;XO_XX__OO;6;1;7;0.0052
+Computador começa;Poda Alfa-Beta;4;XO_XX__OO;6;1;7;0.0057
+Computador começa;Minimax;3;XO_X____O;5;1;174;0.1729
+Computador começa;Poda Alfa-Beta;3;XO_X____O;5;1;78;0.0901
+Computador começa;Minimax;4;XOOXX___O;6;1;7;0.0056
+Computador começa;Poda Alfa-Beta;4;XOOXX___O;6;1;5;0.0037
+Computador começa;Minimax;4;XO_XXO__O;7;1;11;0.0103
+Computador começa;Poda Alfa-Beta;4;XO_XXO__O;7;1;9;0.0089
+Computador começa;Minimax;4;XO_XX_O_O;6;1;11;0.0099
+Computador começa;Poda Alfa-Beta;4;XO_XX_O_O;6;1;9;0.0088
+Computador começa;Minimax;4;XO_XX__OO;6;1;7;0.0051
+Computador começa;Poda Alfa-Beta;4;XO_XX__OO;6;1;7;0.0057
+Computador começa;Minimax;2;X_O______;4;1;7584;7.8422
+Computador começa;Poda Alfa-Beta;2;X_O______;4;1;641;0.7994
+Computador começa;Minimax;3;XOOX_____;5;1;146;0.1529
+Computador começa;Poda Alfa-Beta;3;XOOX_____;5;1;38;0.0418
+Computador começa;Minimax;4;XOOXXO___;7;1;7;0.0060
+Computador começa;Poda Alfa-Beta;4;XOOXXO___;7;1;6;0.0056
+Computador começa;Minimax;4;XOOXX_O__;6;1;8;0.0073
+Computador começa;Poda Alfa-Beta;4;XOOXX_O__;6;1;6;0.0056
+Computador começa;Minimax;4;XOOXX__O_;6;1;4;0.0024
+Computador começa;Poda Alfa-Beta;4;XOOXX__O_;6;1;4;0.0024
+Computador começa;Minimax;4;XOOXX___O;6;1;7;0.0055
+Computador começa;Poda Alfa-Beta;4;XOOXX___O;6;1;5;0.0039
+Computador começa;Minimax;3;X_OXO____;7;1;122;0.1738
+Computador começa;Poda Alfa-Beta;3;X_OXO____;7;1;44;0.0506
+Computador começa;Minimax;3;X_OX_O___;7;1;133;0.1285
+Computador começa;Poda Alfa-Beta;3;X_OX_O___;7;1;64;0.0712
+Computador começa;Minimax;3;X_OX__O__;5;1;174;0.1706
+Computador começa;Poda Alfa-Beta;3;X_OX__O__;5;1;67;0.0789
+Computador começa;Minimax;4;XOOXX_O__;6;1;8;0.0068
+Computador começa;Poda Alfa-Beta;4;XOOXX_O__;6;1;6;0.0053
+Computador começa;Minimax;4;X_OXXOO__;9;1;10;0.0092
+Computador começa;Poda Alfa-Beta;4;X_OXXOO__;9;1;10;0.0101
+Computador começa;Minimax;4;X_OXX_OO_;6;1;7;0.0056
+Computador começa;Poda Alfa-Beta;4;X_OXX_OO_;6;1;7;0.0061
+Computador começa;Minimax;4;X_OXX_O_O;6;1;9;0.0076
+Computador começa;Poda Alfa-Beta;4;X_OXX_O_O;6;1;8;0.0077
+Computador começa;Minimax;3;X_OX___O_;5;1;138;0.1282
+Computador começa;Poda Alfa-Beta;3;X_OX___O_;5;1;64;0.0689
+Computador começa;Minimax;4;XOOXX__O_;6;1;4;0.0022
+Computador começa;Poda Alfa-Beta;4;XOOXX__O_;6;1;4;0.0025
+Computador começa;Minimax;4;X_OXXO_O_;7;1;7;0.0061
+Computador começa;Poda Alfa-Beta;4;X_OXXO_O_;7;1;7;0.0065
+Computador começa;Minimax;4;X_OXX_OO_;6;1;7;0.0056
+Computador começa;Poda Alfa-Beta;4;X_OXX_OO_;6;1;7;0.0061
+Computador começa;Minimax;4;X_OXX__OO;6;1;6;0.0040
+Computador começa;Poda Alfa-Beta;4;X_OXX__OO;6;1;6;0.0045
+Computador começa;Minimax;3;X_OX____O;6;1;125;0.1459
+Computador começa;Poda Alfa-Beta;3;X_OX____O;6;1;56;0.0597
+Computador começa;Minimax;4;XOOX_X__O;5;1;8;0.0072
+Computador começa;Poda Alfa-Beta;4;XOOX_X__O;5;1;6;0.0083
+Computador começa;Minimax;4;X_OXOX__O;7;1;10;0.0091
+Computador começa;Poda Alfa-Beta;4;X_OXOX__O;7;1;9;0.0090
+Computador começa;Minimax;4;X_OX_XO_O;5;1;9;0.0077
+Computador começa;Poda Alfa-Beta;4;X_OX_XO_O;5;1;8;0.0072
+Computador começa;Minimax;4;X_OX_X_OO;5;1;7;0.0054
+Computador começa;Poda Alfa-Beta;4;X_OX_X_OO;5;1;7;0.0058
+Computador começa;Minimax;2;X__O_____;2;1;8232;9.3609
+Computador começa;Poda Alfa-Beta;2;X__O_____;2;1;336;0.7544
+Computador começa;Minimax;3;XXOO_____;5;1;246;0.4332
+Computador começa;Poda Alfa-Beta;3;XXOO_____;5;1;70;0.0821
+Computador começa;Minimax;4;XXOOXO___;8;1;7;0.0058
+Computador começa;Poda Alfa-Beta;4;XXOOXO___;8;1;7;0.0064
+Computador começa;Minimax;4;XXOOX_O__;6;1;8;0.0073
+Computador começa;Poda Alfa-Beta;4;XXOOX_O__;6;1;8;0.0082
+Computador começa;Minimax;5;XXOOXXOO_;9;1;2;0.0013
+Computador começa;Poda Alfa-Beta;5;XXOOXXOO_;9;1;2;0.0013
+Computador começa;Minimax;5;XXOOXXO_O;8;1;2;0.0013
+Computador começa;Poda Alfa-Beta;5;XXOOXXO_O;8;1;2;0.0013
+Computador começa;Minimax;4;XXOOX__O_;9;1;12;0.0124
+Computador começa;Poda Alfa-Beta;4;XXOOX__O_;9;1;12;0.0142
+Computador começa;Minimax;4;XXOOX___O;8;1;11;0.0105
+Computador começa;Poda Alfa-Beta;4;XXOOX___O;8;1;9;0.0147
+Computador começa;Minimax;3;XX_OO____;3;1;157;0.1509
+Computador começa;Poda Alfa-Beta;3;XX_OO____;3;1;36;0.0631
+Computador começa;Minimax;3;XX_O_O___;3;1;113;0.0969
+Computador começa;Poda Alfa-Beta;3;XX_O_O___;3;1;32;0.0366
+Computador começa;Minimax;3;XX_O__O__;3;1;146;0.1322
+Computador começa;Poda Alfa-Beta;3;XX_O__O__;3;1;32;0.0367
+Computador começa;Minimax;3;XX_O___O_;3;1;182;0.1765
+Computador começa;Poda Alfa-Beta;3;XX_O___O_;3;1;42;0.0514
+Computador começa;Minimax;3;XX_O____O;3;1;174;0.1657
+Computador começa;Poda Alfa-Beta;3;XX_O____O;3;1;40;0.0479
+Computador começa;Minimax;2;X___O____;2;0;7332;8.0683
+Computador começa;Poda Alfa-Beta;2;X___O____;2;0;844;1.3619
+Computador começa;Minimax;3;XXO_O____;7;0;198;0.2055
+Computador começa;Poda Alfa-Beta;3;XXO_O____;7;0;64;0.0794
+Computador começa;Minimax;4;XXOOO_X__;6;0;14;0.0143
+Computador começa;Poda Alfa-Beta;4;XXOOO_X__;6;0;10;0.0111
+Computador começa;Minimax;5;XXOOOXXO_;9;0;2;0.0015
+Computador começa;Poda Alfa-Beta;5;XXOOOXXO_;9;0;2;0.0016
+Computador começa;Minimax;5;XXOOOXX_O;8;0;2;0.0015
+Computador começa;Poda Alfa-Beta;5;XXOOOXX_O;8;0;2;0.0015
+Computador começa;Minimax;4;XXO_OOX__;4;1;9;0.0072
+Computador começa;Poda Alfa-Beta;4;XXO_OOX__;4;1;6;0.0052
+Computador começa;Minimax;4;XXO_O_XO_;4;1;12;0.0118
+Computador começa;Poda Alfa-Beta;4;XXO_O_XO_;4;1;8;0.0086
+Computador começa;Minimax;4;XXO_O_X_O;4;1;11;0.0105
+Computador começa;Poda Alfa-Beta;4;XXO_O_X_O;4;1;8;0.0088
+Computador começa;Minimax;3;XX_OO____;3;1;157;0.1480
+Computador começa;Poda Alfa-Beta;3;XX_OO____;3;1;36;0.0399
+Computador começa;Minimax;3;XX__OO___;3;1;125;0.1032
+Computador começa;Poda Alfa-Beta;3;XX__OO___;3;1;32;0.0348
+Computador começa;Minimax;3;XX__O_O__;3;1;122;0.1029
+Computador começa;Poda Alfa-Beta;3;XX__O_O__;3;1;10;0.0092
+Computador começa;Minimax;3;XX__O__O_;3;1;170;0.1571
+Computador começa;Poda Alfa-Beta;3;XX__O__O_;3;1;40;0.0485
+Computador começa;Minimax;3;XX__O___O;3;1;162;0.1503
+Computador começa;Poda Alfa-Beta;3;XX__O___O;3;1;38;0.0447
+Computador começa;Minimax;2;X____O___;3;1;6380;10.9371
+Computador começa;Poda Alfa-Beta;2;X____O___;3;1;365;0.7441
+Computador começa;Minimax;3;XOX__O___;5;1;234;0.4156
+Computador começa;Poda Alfa-Beta;3;XOX__O___;5;1;87;0.1844
+Computador começa;Minimax;4;XOXOXO___;7;1;8;0.0129
+Computador começa;Poda Alfa-Beta;4;XOXOXO___;7;1;6;0.0098
+Computador começa;Minimax;4;XOX_XOO__;9;1;12;0.0217
+Computador começa;Poda Alfa-Beta;4;XOX_XOO__;9;1;12;0.0245
+Computador começa;Minimax;4;XOX_XO_O_;4;1;8;0.0126
+Computador começa;Poda Alfa-Beta;4;XOX_XO_O_;4;1;8;0.0136
+Computador começa;Minimax;5;XOXXXOOO_;9;1;2;0.0022
+Computador começa;Poda Alfa-Beta;5;XOXXXOOO_;9;1;2;0.0022
+Computador começa;Minimax;5;XOXXXO_OO;7;1;2;0.0021
+Computador começa;Poda Alfa-Beta;5;XOXXXO_OO;7;1;2;0.0020
+Computador começa;Minimax;4;XOX_XO__O;7;1;12;0.0215
+Computador começa;Poda Alfa-Beta;4;XOX_XO__O;7;1;10;0.0193
+Computador começa;Minimax;3;X_XO_O___;2;1;121;0.1937
+Computador começa;Poda Alfa-Beta;3;X_XO_O___;2;1;32;0.0593
+Computador começa;Minimax;3;X_X_OO___;2;1;137;0.2163
+Computador começa;Poda Alfa-Beta;3;X_X_OO___;2;1;36;0.0707
+Computador começa;Minimax;3;X_X__OO__;2;1;182;0.3147
+Computador começa;Poda Alfa-Beta;3;X_X__OO__;2;1;42;0.0898
+Computador começa;Minimax;3;X_X__O_O_;2;1;126;0.1920
+Computador começa;Poda Alfa-Beta;3;X_X__O_O_;2;1;32;0.0620
+Computador começa;Minimax;3;X_X__O__O;2;1;158;0.2600
+Computador começa;Poda Alfa-Beta;3;X_X__O__O;2;1;38;0.0777
+Computador começa;Minimax;2;X_____O__;2;1;7584;7.7953
+Computador começa;Poda Alfa-Beta;2;X_____O__;2;1;335;0.4162
+Computador começa;Minimax;3;XXO___O__;5;1;174;0.1700
+Computador começa;Poda Alfa-Beta;3;XXO___O__;5;1;73;0.0838
+Computador começa;Minimax;4;XXOOX_O__;6;1;8;0.0072
+Computador começa;Poda Alfa-Beta;4;XXOOX_O__;6;1;8;0.0079
+Computador começa;Minimax;5;XXOOXXOO_;9;1;2;0.0014
+Computador começa;Poda Alfa-Beta;5;XXOOXXOO_;9;1;2;0.0014
+Computador começa;Minimax;5;XXOOXXO_O;8;1;2;0.0012
+Computador começa;Poda Alfa-Beta;5;XXOOXXO_O;8;1;2;0.0012
+Computador começa;Minimax;4;XXO_XOO__;8;1;7;0.0061
+Computador começa;Poda Alfa-Beta;4;XXO_XOO__;8;1;7;0.0066
+Computador começa;Minimax;4;XXO_X_OO_;9;1;10;0.0090
+Computador começa;Poda Alfa-Beta;4;XXO_X_OO_;9;1;10;0.0101
+Computador começa;Minimax;4;XXO_X_O_O;8;1;9;0.0076
+Computador começa;Poda Alfa-Beta;4;XXO_X_O_O;8;1;9;0.0082
+Computador começa;Minimax;3;XX_O__O__;3;1;146;0.1289
+Computador começa;Poda Alfa-Beta;3;XX_O__O__;3;1;32;0.0351
+Computador começa;Minimax;3;XX__O_O__;3;1;122;0.1020
+Computador começa;Poda Alfa-Beta;3;XX__O_O__;3;1;10;0.0093
+Computador começa;Minimax;3;XX___OO__;3;1;138;0.1208
+Computador começa;Poda Alfa-Beta;3;XX___OO__;3;1;34;0.0560
+Computador começa;Minimax;3;XX____OO_;3;1;133;0.1175
+Computador começa;Poda Alfa-Beta;3;XX____OO_;3;1;38;0.0439
+Computador começa;Minimax;3;XX____O_O;3;1;125;0.1071
+Computador começa;Poda Alfa-Beta;3;XX____O_O;3;1;36;0.0397
+Computador começa;Minimax;2;X______O_;3;1;6380;6.2601
+Computador começa;Poda Alfa-Beta;2;X______O_;3;1;381;0.4486
+Computador começa;Minimax;3;XOX____O_;5;1;158;0.1493
+Computador começa;Poda Alfa-Beta;3;XOX____O_;5;1;75;0.0854
+Computador começa;Minimax;4;XOXOX__O_;6;1;8;0.0074
+Computador começa;Poda Alfa-Beta;4;XOXOX__O_;6;1;8;0.0082
+Computador começa;Minimax;5;XOXOXXOO_;9;1;2;0.0014
+Computador começa;Poda Alfa-Beta;5;XOXOXXOO_;9;1;2;0.0014
+Computador começa;Minimax;5;XOXOXX_OO;7;1;2;0.0015
+Computador começa;Poda Alfa-Beta;5;XOXOXX_OO;7;1;2;0.0015
+Computador começa;Minimax;4;XOX_XO_O_;4;1;8;0.0071
+Computador começa;Poda Alfa-Beta;4;XOX_XO_O_;4;1;8;0.0078
+Computador começa;Minimax;5;XOXXXOOO_;9;1;2;0.0014
+Computador começa;Poda Alfa-Beta;5;XOXXXOOO_;9;1;2;0.0014
+Computador começa;Minimax;5;XOXXXO_OO;7;1;2;0.0012
+Computador começa;Poda Alfa-Beta;5;XOXXXO_OO;7;1;2;0.0012
+Computador começa;Minimax;4;XOX_X_OO_;9;1;10;0.0092
+Computador começa;Poda Alfa-Beta;4;XOX_X_OO_;9;1;10;0.0099
+Computador começa;Minimax;4;XOX_X__OO;7;1;10;0.0090
+Computador começa;Poda Alfa-Beta;4;XOX_X__OO;7;1;10;0.0096
+Computador começa;Minimax;3;X_XO___O_;2;1;126;0.1115
+Computador começa;Poda Alfa-Beta;3;X_XO___O_;2;1;30;0.0321
+Computador começa;Minimax;3;X_X_O__O_;2;1;98;0.0757
+Computador começa;Poda Alfa-Beta;3;X_X_O__O_;2;1;10;0.0087
+Computador começa;Minimax;3;X_X__O_O_;2;1;126;0.1107
+Computador começa;Poda Alfa-Beta;3;X_X__O_O_;2;1;32;0.0358
+Computador começa;Minimax;3;X_X___OO_;2;1;113;0.0961
+Computador começa;Poda Alfa-Beta;3;X_X___OO_;2;1;34;0.0375
+Computador começa;Minimax;3;X_X____OO;2;1;113;0.0950
+Computador começa;Poda Alfa-Beta;3;X_X____OO;2;1;36;0.0397
+Computador começa;Minimax;2;X_______O;3;1;7980;8.1563
+Computador começa;Poda Alfa-Beta;2;X_______O;3;1;438;0.5431
+Computador começa;Minimax;3;XOX_____O;7;1;258;0.2669
+Computador começa;Poda Alfa-Beta;3;XOX_____O;7;1;101;0.1214
+Computador começa;Minimax;4;XOXO__X_O;5;1;12;0.0122
+Computador começa;Poda Alfa-Beta;4;XOXO__X_O;5;1;8;0.0087
+Computador começa;Minimax;4;XOX_O_X_O;4;1;11;0.0107
+Computador começa;Poda Alfa-Beta;4;XOX_O_X_O;4;1;8;0.0084
+Computador começa;Minimax;4;XOX__OX_O;4;1;8;0.0071
+Computador começa;Poda Alfa-Beta;4;XOX__OX_O;4;1;6;0.0056
+Computador começa;Minimax;4;XOX___XOO;4;1;7;0.0056
+Computador começa;Poda Alfa-Beta;4;XOX___XOO;4;1;6;0.0055
+Computador começa;Minimax;3;X_XO____O;2;1;182;0.1787
+Computador começa;Poda Alfa-Beta;3;X_XO____O;2;1;42;0.0524
+Computador começa;Minimax;3;X_X_O___O;2;1;174;0.1646
+Computador começa;Poda Alfa-Beta;3;X_X_O___O;2;1;42;0.0495
+Computador começa;Minimax;3;X_X__O__O;2;1;158;0.1471
+Computador começa;Poda Alfa-Beta;3;X_X__O__O;2;1;38;0.0434
+Computador começa;Minimax;3;X_X___O_O;2;1;169;0.1679
+Computador começa;Poda Alfa-Beta;3;X_X___O_O;2;1;46;0.0576
+Computador começa;Minimax;3;X_X____OO;2;1;113;0.0981
+Computador começa;Poda Alfa-Beta;3;X_X____OO;2;1;36;0.0403
+Humano começa;Minimax;1;X________;5;0;59705;61.7868
+Humano começa;Poda Alfa-Beta;1;X________;5;0;2338;2.8546
+Humano começa;Minimax;2;XX__O____;3;0;935;0.8742
+Humano começa;Poda Alfa-Beta;2;XX__O____;3;0;75;0.0866
+Humano começa;Minimax;3;XXOXO____;7;1;30;0.0279
+Humano começa;Poda Alfa-Beta;3;XXOXO____;7;1;18;0.0197
+Humano começa;Minimax;3;XXO_OX___;7;1;44;0.0466
+Humano começa;Poda Alfa-Beta;3;XXO_OX___;7;1;22;0.0257
+Humano começa;Minimax;3;XXO_O_X__;4;0;47;0.0462
+Humano começa;Poda Alfa-Beta;3;XXO_O_X__;4;0;17;0.0186
+Humano começa;Minimax;4;XXOOOXX__;8;0;5;0.0051
+Humano começa;Poda Alfa-Beta;4;XXOOOXX__;8;0;5;0.0053
+Humano começa;Minimax;4;XXOOO_XX_;6;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XXOOO_XX_;6;1;4;0.0035
+Humano começa;Minimax;4;XXOOO_X_X;6;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XXOOO_X_X;6;1;4;0.0034
+Humano começa;Minimax;3;XXO_O__X_;4;1;36;0.0347
+Humano começa;Poda Alfa-Beta;3;XXO_O__X_;4;1;19;0.0205
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0039
+Humano começa;Minimax;4;XXOOO_XX_;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XXOOO_XX_;6;1;4;0.0035
+Humano começa;Minimax;4;XXOOO__XX;6;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XXOOO__XX;6;1;3;0.0020
+Humano começa;Minimax;3;XXO_O___X;4;1;40;0.0391
+Humano começa;Poda Alfa-Beta;3;XXO_O___X;4;1;21;0.0229
+Humano começa;Minimax;4;XXOOOX__X;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XXOOOX__X;7;1;4;0.0036
+Humano começa;Minimax;4;XXOOO_X_X;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XXOOO_X_X;6;1;4;0.0033
+Humano começa;Minimax;4;XXOOO__XX;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;XXOOO__XX;6;1;3;0.0018
+Humano começa;Minimax;2;X_X_O____;2;0;927;0.9012
+Humano começa;Poda Alfa-Beta;2;X_X_O____;2;0;112;0.1297
+Humano começa;Minimax;3;XOXXO____;8;1;38;0.0381
+Humano começa;Poda Alfa-Beta;3;XOXXO____;8;1;28;0.0329
+Humano começa;Minimax;3;XOX_OX___;8;1;38;0.0378
+Humano começa;Poda Alfa-Beta;3;XOX_OX___;8;1;29;0.0324
+Humano começa;Minimax;3;XOX_O_X__;4;1;34;0.0312
+Humano começa;Poda Alfa-Beta;3;XOX_O_X__;4;1;15;0.0152
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0037
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0033
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0017
+Humano começa;Minimax;3;XOX_O__X_;4;0;61;0.0621
+Humano começa;Poda Alfa-Beta;3;XOX_O__X_;4;0;29;0.0335
+Humano começa;Minimax;4;XOXOOX_X_;9;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;XOXOOX_X_;9;0;5;0.0050
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0035
+Humano começa;Minimax;4;XOXOO__XX;6;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;XOXOO__XX;6;1;4;0.0031
+Humano começa;Minimax;3;XOX_O___X;6;1;34;0.0314
+Humano começa;Poda Alfa-Beta;3;XOX_O___X;6;1;22;0.0227
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0036
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0016
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0033
+Humano começa;Minimax;2;X__XO____;7;0;935;0.8849
+Humano começa;Poda Alfa-Beta;2;X__XO____;7;0;172;0.1925
+Humano começa;Minimax;3;XX_XO_O__;3;1;30;0.0245
+Humano começa;Poda Alfa-Beta;3;XX_XO_O__;3;1;8;0.0063
+Humano começa;Minimax;3;X_XXO_O__;2;0;47;0.0432
+Humano começa;Poda Alfa-Beta;3;X_XXO_O__;2;0;20;0.0216
+Humano começa;Minimax;4;XOXXOXO__;8;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXXOXO__;8;1;4;0.0034
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0054
+Humano começa;Minimax;4;XOXXO_O_X;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXXO_O_X;8;1;4;0.0038
+Humano começa;Minimax;3;X__XOXO__;2;1;36;0.0332
+Humano começa;Poda Alfa-Beta;3;X__XOXO__;2;1;19;0.0207
+Humano começa;Minimax;4;XOXXOXO__;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXOXO__;8;1;4;0.0035
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0036
+Humano começa;Minimax;4;XO_XOXO_X;3;1;3;0.0020
+Humano começa;Poda Alfa-Beta;4;XO_XOXO_X;3;1;3;0.0022
+Humano começa;Minimax;3;X__XO_OX_;3;1;44;0.0433
+Humano começa;Poda Alfa-Beta;3;X__XO_OX_;3;1;22;0.0241
+Humano começa;Minimax;3;X__XO_O_X;2;1;40;0.0376
+Humano começa;Poda Alfa-Beta;3;X__XO_O_X;2;1;21;0.0226
+Humano começa;Minimax;4;XOXXO_O_X;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXXO_O_X;8;1;4;0.0037
+Humano começa;Minimax;4;XO_XOXO_X;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XO_XOXO_X;3;1;3;0.0021
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Minimax;2;X___OX___;2;0;1277;1.2809
+Humano começa;Poda Alfa-Beta;2;X___OX___;2;0;241;0.2829
+Humano começa;Minimax;3;XOX_OX___;8;1;38;0.0383
+Humano começa;Poda Alfa-Beta;3;XOX_OX___;8;1;29;0.0323
+Humano começa;Minimax;3;XO_XOX___;7;1;34;0.0342
+Humano começa;Poda Alfa-Beta;3;XO_XOX___;7;1;22;0.0243
+Humano começa;Minimax;4;XOXXOXO__;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXOXO__;8;1;4;0.0035
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0035
+Humano começa;Minimax;4;XO_XOXO_X;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XO_XOXO_X;3;1;3;0.0022
+Humano começa;Minimax;3;XO__OXX__;8;1;38;0.0360
+Humano começa;Poda Alfa-Beta;3;XO__OXX__;8;1;29;0.0324
+Humano começa;Minimax;3;XO__OX_X_;7;0;61;0.0629
+Humano começa;Poda Alfa-Beta;3;XO__OX_X_;7;0;46;0.0543
+Humano começa;Minimax;4;XOX_OXOX_;9;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOX_OXOX_;9;0;5;0.0051
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0037
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0034
+Humano começa;Minimax;3;XO__OX__X;3;1;34;0.0310
+Humano começa;Poda Alfa-Beta;3;XO__OX__X;3;1;18;0.0182
+Humano começa;Minimax;4;XOOXOX__X;7;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XOOXOX__X;7;1;3;0.0020
+Humano começa;Minimax;4;XOO_OXX_X;8;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;XOO_OXX_X;8;1;4;0.0032
+Humano começa;Minimax;4;XOO_OX_XX;7;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;XOO_OX_XX;7;1;4;0.0033
+Humano começa;Minimax;2;X___O_X__;4;0;927;0.8862
+Humano começa;Poda Alfa-Beta;2;X___O_X__;4;0;189;0.2059
+Humano começa;Minimax;3;XX_OO_X__;6;1;38;0.0356
+Humano começa;Poda Alfa-Beta;3;XX_OO_X__;6;1;16;0.0164
+Humano começa;Minimax;3;X_XOO_X__;2;1;34;0.0299
+Humano começa;Poda Alfa-Beta;3;X_XOO_X__;2;1;15;0.0147
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0035
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0032
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0017
+Humano começa;Minimax;3;X__OOXX__;2;0;61;0.0620
+Humano começa;Poda Alfa-Beta;3;X__OOXX__;2;0;33;0.0379
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0035
+Humano começa;Minimax;4;XO_OOXXX_;9;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;XO_OOXXX_;9;0;5;0.0051
+Humano começa;Minimax;4;XO_OOXX_X;8;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XO_OOXX_X;8;1;4;0.0032
+Humano começa;Minimax;3;X__OO_XX_;6;1;38;0.0370
+Humano começa;Poda Alfa-Beta;3;X__OO_XX_;6;1;29;0.0308
+Humano começa;Minimax;3;X__OO_X_X;6;1;34;0.0304
+Humano começa;Poda Alfa-Beta;3;X__OO_X_X;6;1;27;0.0275
+Humano começa;Minimax;2;X___O__X_;4;0;1277;1.2822
+Humano começa;Poda Alfa-Beta;2;X___O__X_;4;0;412;0.5030
+Humano começa;Minimax;3;XX_OO__X_;3;1;34;0.0305
+Humano começa;Poda Alfa-Beta;3;XX_OO__X_;3;1;15;0.0145
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Minimax;4;XXOOO_XX_;6;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XXOOO_XX_;6;1;4;0.0034
+Humano começa;Minimax;4;XXOOO__XX;6;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XXOOO__XX;6;1;3;0.0031
+Humano começa;Minimax;3;X_XOO__X_;6;1;38;0.0352
+Humano começa;Poda Alfa-Beta;3;X_XOO__X_;6;1;16;0.0162
+Humano começa;Minimax;3;X__OOX_X_;3;0;61;0.0613
+Humano começa;Poda Alfa-Beta;3;X__OOX_X_;3;0;47;0.0540
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0037
+Humano começa;Minimax;4;X_OOOXXX_;9;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;X_OOOXXX_;9;0;5;0.0048
+Humano começa;Minimax;4;X_OOOX_XX;7;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;X_OOOX_XX;7;1;4;0.0032
+Humano começa;Minimax;3;X__OO_XX_;6;1;38;0.0368
+Humano começa;Poda Alfa-Beta;3;X__OO_XX_;6;1;29;0.0312
+Humano começa;Minimax;3;X__OO__XX;6;1;34;0.0302
+Humano começa;Poda Alfa-Beta;3;X__OO__XX;6;1;26;0.0261
+Humano começa;Minimax;2;X___O___X;2;0;1053;1.0187
+Humano começa;Poda Alfa-Beta;2;X___O___X;2;0;318;0.3684
+Humano começa;Minimax;3;XOX_O___X;6;1;34;0.0324
+Humano começa;Poda Alfa-Beta;3;XOX_O___X;6;1;22;0.0235
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0036
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0033
+Humano começa;Minimax;3;XO_XO___X;7;1;34;0.0312
+Humano começa;Poda Alfa-Beta;3;XO_XO___X;7;1;25;0.0264
+Humano começa;Minimax;4;XOXXO_O_X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXO_O_X;8;1;4;0.0037
+Humano começa;Minimax;4;XO_XOXO_X;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XO_XOXO_X;3;1;3;0.0019
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0037
+Humano começa;Minimax;3;XO__OX__X;3;1;34;0.0306
+Humano começa;Poda Alfa-Beta;3;XO__OX__X;3;1;18;0.0176
+Humano começa;Minimax;4;XOOXOX__X;7;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XOOXOX__X;7;1;3;0.0018
+Humano começa;Minimax;4;XOO_OXX_X;8;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;XOO_OXX_X;8;1;4;0.0033
+Humano começa;Minimax;4;XOO_OX_XX;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XOO_OX_XX;7;1;4;0.0033
+Humano começa;Minimax;3;XO__O_X_X;8;1;24;0.0196
+Humano começa;Poda Alfa-Beta;3;XO__O_X_X;8;1;22;0.0211
+Humano começa;Minimax;3;XO__O__XX;7;0;47;0.0449
+Humano começa;Poda Alfa-Beta;3;XO__O__XX;7;0;42;0.0460
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0051
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0034
+Humano começa;Minimax;1;_X_______;1;0;63905;64.6814
+Humano começa;Poda Alfa-Beta;1;_X_______;1;0;2869;4.9947
+Humano começa;Minimax;2;OXX______;4;1;1229;1.3327
+Humano começa;Poda Alfa-Beta;2;OXX______;4;1;169;0.2005
+Humano começa;Minimax;3;OXXOX____;7;1;26;0.0232
+Humano começa;Poda Alfa-Beta;3;OXXOX____;7;1;17;0.0175
+Humano começa;Minimax;3;OXXO_X___;7;1;34;0.0323
+Humano começa;Poda Alfa-Beta;3;OXXO_X___;7;1;20;0.0212
+Humano começa;Minimax;3;OXXO__X__;5;1;45;0.0441
+Humano começa;Poda Alfa-Beta;3;OXXO__X__;5;1;16;0.0170
+Humano começa;Minimax;4;OXXOOXX__;9;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXXOOXX__;9;1;4;0.0034
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0017
+Humano começa;Minimax;4;OXXOO_X_X;6;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXXOO_X_X;6;1;4;0.0059
+Humano começa;Minimax;3;OXXO___X_;5;1;30;0.0268
+Humano começa;Poda Alfa-Beta;3;OXXO___X_;5;1;14;0.0137
+Humano começa;Minimax;4;OXXOOX_X_;7;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OXXOOX_X_;7;1;3;0.0019
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0019
+Humano começa;Minimax;4;OXXOO__XX;6;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OXXOO__XX;6;1;3;0.0016
+Humano começa;Minimax;3;OXXO____X;6;1;34;0.0314
+Humano começa;Poda Alfa-Beta;3;OXXO____X;6;1;22;0.0229
+Humano começa;Minimax;4;OXXOXO__X;7;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXXOXO__X;7;1;4;0.0033
+Humano começa;Minimax;4;OXXO_OX_X;5;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OXXO_OX_X;5;1;4;0.0032
+Humano começa;Minimax;4;OXXO_O_XX;5;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OXXO_O_XX;5;1;3;0.0017
+Humano começa;Minimax;2;OX_X_____;5;0;1465;2.4134
+Humano começa;Poda Alfa-Beta;2;OX_X_____;5;0;406;0.8982
+Humano começa;Minimax;3;OXXXO____;9;1;44;0.0802
+Humano começa;Poda Alfa-Beta;3;OXXXO____;9;1;44;0.0909
+Humano começa;Minimax;3;OX_XOX___;3;1;40;0.0684
+Humano começa;Poda Alfa-Beta;3;OX_XOX___;3;1;21;0.0426
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0060
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0064
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0035
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0059
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0062
+Humano começa;Minimax;3;OX_XO_X__;9;1;44;0.0760
+Humano começa;Poda Alfa-Beta;3;OX_XO_X__;9;1;44;0.0889
+Humano começa;Minimax;3;OX_XO__X_;3;1;40;0.0679
+Humano começa;Poda Alfa-Beta;3;OX_XO__X_;3;1;24;0.0473
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0035
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0035
+Humano começa;Minimax;4;OXOXO_XX_;9;1;4;0.0056
+Humano começa;Poda Alfa-Beta;4;OXOXO_XX_;9;1;4;0.0057
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0058
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0059
+Humano começa;Minimax;3;OX_XO___X;3;0;61;0.1097
+Humano começa;Poda Alfa-Beta;3;OX_XO___X;3;0;33;0.0717
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0062
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0064
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0080
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0085
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0057
+Humano começa;Minimax;2;OX__X____;8;0;1055;1.9095
+Humano começa;Poda Alfa-Beta;2;OX__X____;8;0;269;0.5633
+Humano começa;Minimax;3;OXX_X__O_;7;1;45;0.0792
+Humano começa;Poda Alfa-Beta;3;OXX_X__O_;7;1;31;0.0623
+Humano começa;Minimax;4;OXXXX_OO_;9;1;4;0.0059
+Humano começa;Poda Alfa-Beta;4;OXXXX_OO_;9;1;4;0.0063
+Humano começa;Minimax;4;OXX_XXOO_;4;1;3;0.0029
+Humano começa;Poda Alfa-Beta;4;OXX_XXOO_;4;1;3;0.0027
+Humano começa;Minimax;4;OXX_X_OOX;4;1;4;0.0056
+Humano começa;Poda Alfa-Beta;4;OXX_X_OOX;4;1;4;0.0054
+Humano começa;Minimax;3;OX_XX__O_;6;0;51;0.0895
+Humano começa;Poda Alfa-Beta;3;OX_XX__O_;6;0;33;0.0670
+Humano começa;Minimax;4;OXXXXO_O_;7;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OXXXXO_O_;7;0;5;0.0090
+Humano começa;Minimax;4;OX_XXOXO_;3;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OX_XXOXO_;3;0;5;0.0089
+Humano começa;Minimax;4;OX_XXO_OX;3;0;5;0.0085
+Humano começa;Poda Alfa-Beta;4;OX_XXO_OX;3;0;5;0.0090
+Humano começa;Minimax;3;OX__XX_O_;4;0;47;0.0766
+Humano começa;Poda Alfa-Beta;3;OX__XX_O_;4;0;33;0.0643
+Humano começa;Minimax;4;OXXOXX_O_;7;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OXXOXX_O_;7;1;4;0.0058
+Humano começa;Minimax;4;OX_OXXXO_;3;0;5;0.0083
+Humano começa;Poda Alfa-Beta;4;OX_OXXXO_;3;0;5;0.0088
+Humano começa;Minimax;4;OX_OXX_OX;7;1;4;0.0057
+Humano começa;Poda Alfa-Beta;4;OX_OXX_OX;7;1;4;0.0063
+Humano começa;Minimax;3;OX__X_XO_;3;0;53;0.0944
+Humano começa;Poda Alfa-Beta;3;OX__X_XO_;3;0;19;0.0384
+Humano começa;Minimax;4;OXOXX_XO_;6;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;OXOXX_XO_;6;0;5;0.0084
+Humano começa;Minimax;4;OXO_XXXO_;4;0;5;0.0075
+Humano começa;Poda Alfa-Beta;4;OXO_XXXO_;4;0;5;0.0085
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0084
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0093
+Humano começa;Minimax;3;OX__X__OX;3;0;61;0.1082
+Humano começa;Poda Alfa-Beta;3;OX__X__OX;3;0;43;0.0887
+Humano começa;Minimax;4;OXOXX__OX;6;0;5;0.0080
+Humano começa;Poda Alfa-Beta;4;OXOXX__OX;6;0;5;0.0084
+Humano começa;Minimax;4;OXO_XX_OX;4;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;OXO_XX_OX;4;0;5;0.0082
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0091
+Humano começa;Minimax;2;OX___X___;7;1;1241;2.1842
+Humano começa;Poda Alfa-Beta;2;OX___X___;7;1;332;0.6881
+Humano começa;Minimax;3;OXX__XO__;4;1;30;0.0450
+Humano começa;Poda Alfa-Beta;3;OXX__XO__;4;1;16;0.0294
+Humano começa;Minimax;3;OX_X_XO__;5;1;43;0.0690
+Humano começa;Poda Alfa-Beta;3;OX_X_XO__;5;1;25;0.0486
+Humano começa;Minimax;4;OXXXOXO__;9;1;4;0.0058
+Humano começa;Poda Alfa-Beta;4;OXXXOXO__;9;1;4;0.0061
+Humano começa;Minimax;4;OX_XOXOX_;3;1;3;0.0034
+Humano começa;Poda Alfa-Beta;4;OX_XOXOX_;3;1;3;0.0035
+Humano começa;Minimax;4;OX_XOXO_X;3;1;4;0.0056
+Humano começa;Poda Alfa-Beta;4;OX_XOXO_X;3;1;4;0.0057
+Humano começa;Minimax;3;OX__XXO__;4;1;24;0.0322
+Humano começa;Poda Alfa-Beta;3;OX__XXO__;4;1;15;0.0233
+Humano começa;Minimax;3;OX___XOX_;4;1;30;0.0445
+Humano começa;Poda Alfa-Beta;3;OX___XOX_;4;1;18;0.0310
+Humano começa;Minimax;3;OX___XO_X;3;1;34;0.0593
+Humano começa;Poda Alfa-Beta;3;OX___XO_X;3;1;15;0.0263
+Humano começa;Minimax;4;OXOX_XO_X;5;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OXOX_XO_X;5;1;4;0.0055
+Humano começa;Minimax;4;OXO_XXO_X;4;1;4;0.0048
+Humano começa;Poda Alfa-Beta;4;OXO_XXO_X;4;1;4;0.0054
+Humano começa;Minimax;4;OXO__XOXX;4;1;3;0.0032
+Humano começa;Poda Alfa-Beta;4;OXO__XOXX;4;1;3;0.0033
+Humano começa;Minimax;2;OX____X__;5;0;1405;2.5523
+Humano começa;Poda Alfa-Beta;2;OX____X__;5;0;503;0.6222
+Humano começa;Minimax;3;OXX_O_X__;4;1;40;0.0394
+Humano começa;Poda Alfa-Beta;3;OXX_O_X__;4;1;21;0.0239
+Humano começa;Minimax;4;OXXOOXX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXXOOXX__;9;1;4;0.0035
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Minimax;4;OXXOO_X_X;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXXOO_X_X;6;1;4;0.0032
+Humano começa;Minimax;3;OX_XO_X__;9;1;44;0.0448
+Humano começa;Poda Alfa-Beta;3;OX_XO_X__;9;1;44;0.0502
+Humano começa;Minimax;3;OX__OXX__;9;1;44;0.0442
+Humano começa;Poda Alfa-Beta;3;OX__OXX__;9;1;44;0.0496
+Humano começa;Minimax;3;OX__O_XX_;9;1;30;0.0262
+Humano começa;Poda Alfa-Beta;3;OX__O_XX_;9;1;30;0.0319
+Humano começa;Minimax;3;OX__O_X_X;8;0;51;0.0503
+Humano começa;Poda Alfa-Beta;3;OX__O_X_X;8;0;46;0.0524
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0051
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0049
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0049
+Humano começa;Minimax;2;OX_____X_;5;1;899;0.8519
+Humano começa;Poda Alfa-Beta;2;OX_____X_;5;1;223;0.2512
+Humano começa;Minimax;3;OXX_O__X_;4;1;36;0.0343
+Humano começa;Poda Alfa-Beta;3;OXX_O__X_;4;1;20;0.0215
+Humano começa;Minimax;4;OXXOOX_X_;7;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOOX_X_;7;1;3;0.0018
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Minimax;4;OXXOO__XX;6;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OXXOO__XX;6;1;3;0.0017
+Humano começa;Minimax;3;OX_XO__X_;3;1;40;0.0415
+Humano começa;Poda Alfa-Beta;3;OX_XO__X_;3;1;24;0.0263
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0022
+Humano começa;Minimax;4;OXOXO_XX_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXOXO_XX_;9;1;4;0.0034
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0036
+Humano começa;Minimax;3;OX__OX_X_;3;1;36;0.0327
+Humano começa;Poda Alfa-Beta;3;OX__OX_X_;3;1;22;0.0228
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0022
+Humano começa;Minimax;4;OXO_OXXX_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXO_OXXX_;9;1;4;0.0035
+Humano começa;Minimax;4;OXO_OX_XX;7;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXO_OX_XX;7;1;4;0.0034
+Humano começa;Minimax;3;OX__O_XX_;9;1;30;0.0260
+Humano começa;Poda Alfa-Beta;3;OX__O_XX_;9;1;30;0.0300
+Humano começa;Minimax;3;OX__O__XX;7;1;43;0.0388
+Humano começa;Poda Alfa-Beta;3;OX__O__XX;7;1;40;0.0423
+Humano começa;Minimax;4;OXX_O_OXX;4;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXX_O_OXX;4;1;4;0.0035
+Humano começa;Minimax;4;OX_XO_OXX;3;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OX_XO_OXX;3;1;4;0.0037
+Humano começa;Minimax;4;OX__OXOXX;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OX__OXOXX;3;1;3;0.0020
+Humano começa;Minimax;2;OX______X;5;0;1457;1.5226
+Humano começa;Poda Alfa-Beta;2;OX______X;5;0;504;0.6438
+Humano começa;Minimax;3;OXX_O___X;6;0;47;0.0472
+Humano começa;Poda Alfa-Beta;3;OXX_O___X;6;0;29;0.0332
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0054
+Humano começa;Minimax;4;OXX_OOX_X;4;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXX_OOX_X;4;1;4;0.0034
+Humano começa;Minimax;4;OXX_OO_XX;4;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXX_OO_XX;4;1;4;0.0035
+Humano começa;Minimax;3;OX_XO___X;3;0;61;0.0625
+Humano começa;Poda Alfa-Beta;3;OX_XO___X;3;0;33;0.0394
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0037
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0050
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0034
+Humano começa;Minimax;3;OX__OX__X;3;0;47;0.0491
+Humano começa;Poda Alfa-Beta;3;OX__OX__X;3;0;21;0.0238
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0037
+Humano começa;Minimax;4;OXO_OXX_X;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXO_OXX_X;8;0;5;0.0054
+Humano começa;Minimax;4;OXO_OX_XX;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OXO_OX_XX;7;1;4;0.0035
+Humano começa;Minimax;3;OX__O_X_X;8;0;51;0.0526
+Humano começa;Poda Alfa-Beta;3;OX__O_X_X;8;0;46;0.0696
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0083
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0089
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0055
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0083
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0086
+Humano começa;Minimax;3;OX__O__XX;7;1;43;0.0433
+Humano começa;Poda Alfa-Beta;3;OX__O__XX;7;1;40;0.0410
+Humano começa;Minimax;4;OXX_O_OXX;4;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXX_O_OXX;4;1;4;0.0033
+Humano começa;Minimax;4;OX_XO_OXX;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OX_XO_OXX;3;1;4;0.0036
+Humano começa;Minimax;4;OX__OXOXX;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OX__OXOXX;3;1;3;0.0021
+Humano começa;Minimax;1;__X______;5;0;59705;74.6848
+Humano começa;Poda Alfa-Beta;1;__X______;5;0;3275;5.6561
+Humano começa;Minimax;2;X_X_O____;2;0;927;0.9101
+Humano começa;Poda Alfa-Beta;2;X_X_O____;2;0;112;0.2096
+Humano começa;Minimax;3;XOXXO____;8;1;38;0.0590
+Humano começa;Poda Alfa-Beta;3;XOXXO____;8;1;28;0.0561
+Humano começa;Minimax;3;XOX_OX___;8;1;38;0.0632
+Humano começa;Poda Alfa-Beta;3;XOX_OX___;8;1;29;0.0541
+Humano começa;Minimax;3;XOX_O_X__;4;1;34;0.0619
+Humano começa;Poda Alfa-Beta;3;XOX_O_X__;4;1;15;0.0262
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0052
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0054
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0054
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0025
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0036
+Humano começa;Minimax;3;XOX_O__X_;4;0;61;0.0627
+Humano começa;Poda Alfa-Beta;3;XOX_O__X_;4;0;29;0.0342
+Humano começa;Minimax;4;XOXOOX_X_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XOXOOX_X_;9;0;5;0.0052
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0035
+Humano começa;Minimax;4;XOXOO__XX;6;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;XOXOO__XX;6;1;4;0.0031
+Humano começa;Minimax;3;XOX_O___X;6;1;34;0.0311
+Humano começa;Poda Alfa-Beta;3;XOX_O___X;6;1;22;0.0230
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0036
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0035
+Humano começa;Minimax;2;_XX_O____;1;0;935;0.9913
+Humano começa;Poda Alfa-Beta;2;_XX_O____;1;0;131;0.1497
+Humano começa;Minimax;3;OXXXO____;9;1;44;0.0702
+Humano começa;Poda Alfa-Beta;3;OXXXO____;9;1;44;0.0556
+Humano começa;Minimax;3;OXX_OX___;9;1;30;0.0277
+Humano começa;Poda Alfa-Beta;3;OXX_OX___;9;1;28;0.0290
+Humano começa;Minimax;3;OXX_O_X__;4;1;40;0.0381
+Humano começa;Poda Alfa-Beta;3;OXX_O_X__;4;1;21;0.0231
+Humano começa;Minimax;4;OXXOOXX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXXOOXX__;9;1;4;0.0035
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Minimax;4;OXXOO_X_X;6;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OXXOO_X_X;6;1;4;0.0032
+Humano começa;Minimax;3;OXX_O__X_;4;1;36;0.0331
+Humano começa;Poda Alfa-Beta;3;OXX_O__X_;4;1;20;0.0217
+Humano começa;Minimax;4;OXXOOX_X_;7;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OXXOOX_X_;7;1;3;0.0018
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Minimax;4;OXXOO__XX;6;1;3;0.0015
+Humano começa;Poda Alfa-Beta;4;OXXOO__XX;6;1;3;0.0016
+Humano começa;Minimax;3;OXX_O___X;6;0;47;0.0479
+Humano começa;Poda Alfa-Beta;3;OXX_O___X;6;0;29;0.0333
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0052
+Humano começa;Minimax;4;OXX_OOX_X;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXX_OOX_X;4;1;4;0.0033
+Humano começa;Minimax;4;OXX_OO_XX;4;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXX_OO_XX;4;1;4;0.0034
+Humano começa;Minimax;2;__XXO____;1;0;1277;1.3264
+Humano começa;Poda Alfa-Beta;2;__XXO____;1;0;322;0.6363
+Humano começa;Minimax;3;OXXXO____;9;1;44;0.0802
+Humano começa;Poda Alfa-Beta;3;OXXXO____;9;1;44;0.0915
+Humano começa;Minimax;3;O_XXOX___;9;1;30;0.0494
+Humano começa;Poda Alfa-Beta;3;O_XXOX___;9;1;29;0.0305
+Humano começa;Minimax;3;O_XXO_X__;2;1;40;0.0674
+Humano começa;Poda Alfa-Beta;3;O_XXO_X__;2;1;24;0.0499
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0035
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0060
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0057
+Humano começa;Minimax;3;O_XXO__X_;9;1;44;0.0760
+Humano começa;Poda Alfa-Beta;3;O_XXO__X_;9;1;44;0.0752
+Humano começa;Minimax;3;O_XXO___X;6;0;51;0.0900
+Humano começa;Poda Alfa-Beta;3;O_XXO___X;6;0;37;0.0787
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0057
+Humano começa;Minimax;4;O_XXOOX_X;8;0;5;0.0064
+Humano começa;Poda Alfa-Beta;4;O_XXOOX_X;8;0;5;0.0057
+Humano começa;Minimax;4;O_XXOO_XX;7;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;O_XXOO_XX;7;0;5;0.0047
+Humano começa;Minimax;2;__X_OX___;9;0;935;0.9579
+Humano começa;Poda Alfa-Beta;2;__X_OX___;9;0;323;0.3650
+Humano começa;Minimax;3;X_X_OX__O;2;0;47;0.0443
+Humano começa;Poda Alfa-Beta;3;X_X_OX__O;2;0;21;0.0241
+Humano começa;Minimax;4;XOXXOX__O;8;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XOXXOX__O;8;1;4;0.0036
+Humano começa;Minimax;4;XOX_OXX_O;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOX_OXX_O;8;1;4;0.0037
+Humano começa;Minimax;4;XOX_OX_XO;4;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XOX_OX_XO;4;0;5;0.0052
+Humano começa;Minimax;3;_XX_OX__O;1;1;30;0.0240
+Humano começa;Poda Alfa-Beta;3;_XX_OX__O;1;1;8;0.0061
+Humano começa;Minimax;3;__XXOX__O;1;1;36;0.0316
+Humano começa;Poda Alfa-Beta;3;__XXOX__O;1;1;16;0.0162
+Humano começa;Minimax;3;__X_OXX_O;1;1;40;0.0356
+Humano começa;Poda Alfa-Beta;3;__X_OXX_O;1;1;18;0.0185
+Humano começa;Minimax;3;__X_OX_XO;1;1;44;0.0414
+Humano começa;Poda Alfa-Beta;3;__X_OX_XO;1;1;20;0.0216
+Humano começa;Minimax;2;__X_O_X__;2;0;1053;1.0037
+Humano começa;Poda Alfa-Beta;2;__X_O_X__;2;0;365;0.4166
+Humano começa;Minimax;3;XOX_O_X__;4;1;34;0.0316
+Humano começa;Poda Alfa-Beta;3;XOX_O_X__;4;1;15;0.0160
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0034
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0034
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0018
+Humano começa;Minimax;3;_OXXO_X__;1;1;34;0.0310
+Humano começa;Poda Alfa-Beta;3;_OXXO_X__;1;1;18;0.0178
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0034
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0032
+Humano começa;Minimax;3;_OX_OXX__;8;1;34;0.0324
+Humano começa;Poda Alfa-Beta;3;_OX_OXX__;8;1;27;0.0291
+Humano começa;Minimax;3;_OX_O_XX_;9;0;47;0.0437
+Humano começa;Poda Alfa-Beta;3;_OX_O_XX_;9;0;42;0.0443
+Humano começa;Minimax;4;XOX_O_XXO;4;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;XOX_O_XXO;4;0;5;0.0048
+Humano começa;Minimax;4;_OXXO_XXO;1;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;_OXXO_XXO;1;1;4;0.0030
+Humano começa;Minimax;4;_OX_OXXXO;1;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;_OX_OXXXO;1;1;4;0.0036
+Humano começa;Minimax;3;_OX_O_X_X;8;1;24;0.0196
+Humano começa;Poda Alfa-Beta;3;_OX_O_X_X;8;1;23;0.0212
+Humano começa;Minimax;2;__X_O__X_;4;0;1277;1.2692
+Humano começa;Poda Alfa-Beta;2;__X_O__X_;4;0;507;0.5745
+Humano começa;Minimax;3;X_XOO__X_;6;1;38;0.0359
+Humano começa;Poda Alfa-Beta;3;X_XOO__X_;6;1;16;0.0163
+Humano começa;Minimax;3;_XXOO__X_;1;1;30;0.0225
+Humano começa;Poda Alfa-Beta;3;_XXOO__X_;1;1;14;0.0124
+Humano começa;Minimax;4;OXXOOX_X_;7;1;3;0.0020
+Humano começa;Poda Alfa-Beta;4;OXXOOX_X_;7;1;3;0.0018
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Minimax;4;OXXOO__XX;6;1;3;0.0015
+Humano começa;Poda Alfa-Beta;4;OXXOO__XX;6;1;3;0.0016
+Humano começa;Minimax;3;__XOOX_X_;9;0;47;0.0439
+Humano começa;Poda Alfa-Beta;3;__XOOX_X_;9;0;38;0.0428
+Humano começa;Minimax;4;X_XOOX_XO;2;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;X_XOOX_XO;2;0;5;0.0047
+Humano começa;Minimax;4;_XXOOX_XO;1;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;_XXOOX_XO;1;1;4;0.0032
+Humano começa;Minimax;4;__XOOXXXO;1;1;4;0.0037
+Humano começa;Poda Alfa-Beta;4;__XOOXXXO;1;1;4;0.0036
+Humano começa;Minimax;3;__XOO_XX_;6;1;34;0.0311
+Humano começa;Poda Alfa-Beta;3;__XOO_XX_;6;1;27;0.0281
+Humano começa;Minimax;3;__XOO__XX;6;1;24;0.0191
+Humano começa;Poda Alfa-Beta;3;__XOO__XX;6;1;19;0.0178
+Humano começa;Minimax;2;__X_O___X;6;0;927;0.9087
+Humano começa;Poda Alfa-Beta;2;__X_O___X;6;0;275;0.3111
+Humano começa;Minimax;3;X_X_OO__X;2;1;34;0.0300
+Humano começa;Poda Alfa-Beta;3;X_X_OO__X;2;1;15;0.0141
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0037
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0034
+Humano começa;Minimax;3;_XX_OO__X;4;1;38;0.0358
+Humano começa;Poda Alfa-Beta;3;_XX_OO__X;4;1;16;0.0160
+Humano começa;Minimax;3;__XXOO__X;1;0;61;0.0710
+Humano começa;Poda Alfa-Beta;3;__XXOO__X;1;0;47;0.0524
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0052
+Humano começa;Minimax;4;O_XXOOX_X;8;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;O_XXOOX_X;8;0;5;0.0050
+Humano começa;Minimax;4;O_XXOO_XX;7;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;O_XXOO_XX;7;0;5;0.0047
+Humano começa;Minimax;3;__X_OOX_X;4;1;34;0.0308
+Humano começa;Poda Alfa-Beta;3;__X_OOX_X;4;1;26;0.0260
+Humano começa;Minimax;3;__X_OO_XX;4;1;38;0.0364
+Humano começa;Poda Alfa-Beta;3;__X_OO_XX;4;1;29;0.0353
+Humano começa;Minimax;1;___X_____;1;0;63905;67.2166
+Humano começa;Poda Alfa-Beta;1;___X_____;1;0;3574;4.4493
+Humano começa;Minimax;2;OX_X_____;5;0;1465;2.4255
+Humano começa;Poda Alfa-Beta;2;OX_X_____;5;0;406;0.7260
+Humano começa;Minimax;3;OXXXO____;9;1;44;0.0782
+Humano começa;Poda Alfa-Beta;3;OXXXO____;9;1;44;0.0909
+Humano começa;Minimax;3;OX_XOX___;3;1;40;0.0693
+Humano começa;Poda Alfa-Beta;3;OX_XOX___;3;1;21;0.0428
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0060
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0062
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0038
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0062
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0065
+Humano começa;Minimax;3;OX_XO_X__;9;1;44;0.0693
+Humano começa;Poda Alfa-Beta;3;OX_XO_X__;9;1;44;0.0545
+Humano começa;Minimax;3;OX_XO__X_;3;1;40;0.0649
+Humano começa;Poda Alfa-Beta;3;OX_XO__X_;3;1;24;0.0444
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0032
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0033
+Humano começa;Minimax;4;OXOXO_XX_;9;1;4;0.0049
+Humano começa;Poda Alfa-Beta;4;OXOXO_XX_;9;1;4;0.0052
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0060
+Humano começa;Minimax;3;OX_XO___X;3;0;61;0.0878
+Humano começa;Poda Alfa-Beta;3;OX_XO___X;3;0;33;0.0646
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0053
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0075
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0084
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0060
+Humano começa;Minimax;2;O_XX_____;5;0;1405;1.9375
+Humano começa;Poda Alfa-Beta;2;O_XX_____;5;0;421;0.5059
+Humano começa;Minimax;3;OXXXO____;9;1;44;0.0541
+Humano começa;Poda Alfa-Beta;3;OXXXO____;9;1;44;0.0852
+Humano começa;Minimax;3;O_XXOX___;9;1;30;0.0423
+Humano começa;Poda Alfa-Beta;3;O_XXOX___;9;1;29;0.0303
+Humano começa;Minimax;3;O_XXO_X__;2;1;40;0.0393
+Humano começa;Poda Alfa-Beta;3;O_XXO_X__;2;1;24;0.0350
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0035
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0048
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0056
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0036
+Humano começa;Minimax;3;O_XXO__X_;9;1;44;0.0467
+Humano começa;Poda Alfa-Beta;3;O_XXO__X_;9;1;44;0.0830
+Humano começa;Minimax;3;O_XXO___X;6;0;51;0.0788
+Humano começa;Poda Alfa-Beta;3;O_XXO___X;6;0;37;0.0440
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0052
+Humano começa;Minimax;4;O_XXOOX_X;8;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;O_XXOOX_X;8;0;5;0.0049
+Humano começa;Minimax;4;O_XXOO_XX;7;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;O_XXOO_XX;7;0;5;0.0049
+Humano começa;Minimax;2;O__XX____;6;0;1055;1.1810
+Humano começa;Poda Alfa-Beta;2;O__XX____;6;0;179;0.2137
+Humano começa;Minimax;3;OX_XXO___;8;0;51;0.0536
+Humano começa;Poda Alfa-Beta;3;OX_XXO___;8;0;35;0.0657
+Humano começa;Minimax;4;OXXXXO_O_;7;0;5;0.0081
+Humano começa;Poda Alfa-Beta;4;OXXXXO_O_;7;0;5;0.0082
+Humano começa;Minimax;4;OX_XXOXO_;3;0;5;0.0078
+Humano começa;Poda Alfa-Beta;4;OX_XXOXO_;3;0;5;0.0086
+Humano começa;Minimax;4;OX_XXO_OX;3;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OX_XXO_OX;3;0;5;0.0087
+Humano começa;Minimax;3;O_XXXO___;7;0;53;0.0809
+Humano começa;Poda Alfa-Beta;3;O_XXXO___;7;0;33;0.0404
+Humano começa;Minimax;4;OXXXXOO__;8;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXXXXOO__;8;0;5;0.0054
+Humano começa;Minimax;4;O_XXXOOX_;2;0;5;0.0053
+Humano começa;Poda Alfa-Beta;4;O_XXXOOX_;2;0;5;0.0049
+Humano começa;Minimax;4;O_XXXOO_X;2;0;5;0.0051
+Humano começa;Poda Alfa-Beta;4;O_XXXOO_X;2;0;5;0.0053
+Humano começa;Minimax;3;O__XXOX__;3;1;45;0.0447
+Humano começa;Poda Alfa-Beta;3;O__XXOX__;3;1;27;0.0285
+Humano começa;Minimax;4;OXOXXOX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXOXXOX__;9;1;4;0.0037
+Humano começa;Minimax;4;O_OXXOXX_;2;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;O_OXXOXX_;2;1;3;0.0016
+Humano começa;Minimax;4;O_OXXOX_X;2;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O_OXXOX_X;2;1;4;0.0032
+Humano começa;Minimax;3;O__XXO_X_;2;0;47;0.0450
+Humano começa;Poda Alfa-Beta;3;O__XXO_X_;2;0;17;0.0179
+Humano começa;Minimax;4;OOXXXO_X_;7;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;OOXXXO_X_;7;0;5;0.0053
+Humano começa;Minimax;4;OO_XXOXX_;3;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;OO_XXOXX_;3;1;4;0.0030
+Humano começa;Minimax;4;OO_XXO_XX;3;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OO_XXO_XX;3;1;4;0.0031
+Humano começa;Minimax;3;O__XXO__X;2;0;61;0.0613
+Humano começa;Poda Alfa-Beta;3;O__XXO__X;2;0;29;0.0337
+Humano começa;Minimax;4;OOXXXO__X;7;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OOXXXO__X;7;0;5;0.0051
+Humano começa;Minimax;4;OO_XXOX_X;3;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OO_XXOX_X;3;1;4;0.0031
+Humano começa;Minimax;4;OO_XXO_XX;3;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OO_XXO_XX;3;1;4;0.0032
+Humano começa;Minimax;2;O__X_X___;5;1;899;0.8572
+Humano começa;Poda Alfa-Beta;2;O__X_X___;5;1;170;0.1855
+Humano começa;Minimax;3;OX_XOX___;3;1;40;0.0393
+Humano começa;Poda Alfa-Beta;3;OX_XOX___;3;1;21;0.0237
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0037
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Minimax;3;O_XXOX___;9;1;30;0.0268
+Humano começa;Poda Alfa-Beta;3;O_XXOX___;9;1;29;0.0298
+Humano começa;Minimax;3;O__XOXX__;2;1;36;0.0314
+Humano começa;Poda Alfa-Beta;3;O__XOXX__;2;1;20;0.0205
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0019
+Humano começa;Minimax;4;OO_XOXXX_;3;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OO_XOXXX_;3;1;3;0.0019
+Humano começa;Minimax;4;OO_XOXX_X;3;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OO_XOXX_X;3;1;3;0.0018
+Humano começa;Minimax;3;O__XOX_X_;2;1;36;0.0318
+Humano começa;Poda Alfa-Beta;3;O__XOX_X_;2;1;19;0.0193
+Humano começa;Minimax;4;OOXXOX_X_;9;1;4;0.0038
+Humano começa;Poda Alfa-Beta;4;OOXXOX_X_;9;1;4;0.0036
+Humano começa;Minimax;4;OO_XOXXX_;3;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OO_XOXXX_;3;1;3;0.0017
+Humano começa;Minimax;4;OO_XOX_XX;3;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;OO_XOX_XX;3;1;4;0.0031
+Humano começa;Minimax;3;O__XOX__X;3;1;43;0.0398
+Humano começa;Poda Alfa-Beta;3;O__XOX__X;3;1;27;0.0316
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0037
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0038
+Humano começa;Minimax;4;O_OXOXX_X;2;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;O_OXOXX_X;2;1;4;0.0033
+Humano começa;Minimax;4;O_OXOX_XX;2;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;O_OXOX_XX;2;1;3;0.0018
+Humano começa;Minimax;2;O__X__X__;2;1;1229;1.2328
+Humano começa;Poda Alfa-Beta;2;O__X__X__;2;1;135;0.1607
+Humano começa;Minimax;3;OOXX__X__;5;1;45;0.0432
+Humano começa;Poda Alfa-Beta;3;OOXX__X__;5;1;19;0.0202
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0034
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0031
+Humano começa;Minimax;3;OO_XX_X__;3;1;26;0.0216
+Humano começa;Poda Alfa-Beta;3;OO_XX_X__;3;1;8;0.0071
+Humano começa;Minimax;3;OO_X_XX__;3;1;30;0.0240
+Humano começa;Poda Alfa-Beta;3;OO_X_XX__;3;1;16;0.0161
+Humano começa;Minimax;3;OO_X__XX_;3;1;34;0.0305
+Humano começa;Poda Alfa-Beta;3;OO_X__XX_;3;1;18;0.0193
+Humano começa;Minimax;3;OO_X__X_X;3;1;34;0.0297
+Humano começa;Poda Alfa-Beta;3;OO_X__X_X;3;1;18;0.0194
+Humano começa;Minimax;2;O__X___X_;3;1;1241;1.2476
+Humano começa;Poda Alfa-Beta;2;O__X___X_;3;1;153;0.1772
+Humano começa;Minimax;3;OXOX___X_;5;1;43;0.0407
+Humano começa;Poda Alfa-Beta;3;OXOX___X_;5;1;19;0.0202
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Minimax;4;OXOXO_XX_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXOXO_XX_;9;1;4;0.0034
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0036
+Humano começa;Minimax;3;O_OXX__X_;2;1;24;0.0180
+Humano começa;Poda Alfa-Beta;3;O_OXX__X_;2;1;8;0.0067
+Humano começa;Minimax;3;O_OX_X_X_;2;1;30;0.0246
+Humano começa;Poda Alfa-Beta;3;O_OX_X_X_;2;1;16;0.0159
+Humano começa;Minimax;3;O_OX__XX_;2;1;30;0.0245
+Humano começa;Poda Alfa-Beta;3;O_OX__XX_;2;1;16;0.0160
+Humano começa;Minimax;3;O_OX___XX;2;1;34;0.0296
+Humano começa;Poda Alfa-Beta;3;O_OX___XX;2;1;18;0.0191
+Humano começa;Minimax;2;O__X____X;3;0;1457;1.4951
+Humano começa;Poda Alfa-Beta;2;O__X____X;3;0;193;0.2368
+Humano começa;Minimax;3;OXOX____X;5;0;61;0.0631
+Humano começa;Poda Alfa-Beta;3;OXOX____X;5;0;33;0.0389
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0037
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0050
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0033
+Humano começa;Minimax;3;O_OXX___X;2;1;38;0.0350
+Humano começa;Poda Alfa-Beta;3;O_OXX___X;2;1;20;0.0218
+Humano começa;Minimax;3;O_OX_X__X;2;1;34;0.0298
+Humano começa;Poda Alfa-Beta;3;O_OX_X__X;2;1;18;0.0193
+Humano começa;Minimax;3;O_OX__X_X;2;1;38;0.0353
+Humano começa;Poda Alfa-Beta;3;O_OX__X_X;2;1;20;0.0223
+Humano começa;Minimax;3;O_OX___XX;2;1;34;0.0295
+Humano começa;Poda Alfa-Beta;3;O_OX___XX;2;1;18;0.0192
+Humano começa;Minimax;1;____X____;1;0;55505;55.5022
+Humano começa;Poda Alfa-Beta;1;____X____;1;0;2316;2.7437
+Humano começa;Minimax;2;OX__X____;8;0;1055;1.0662
+Humano começa;Poda Alfa-Beta;2;OX__X____;8;0;269;0.3288
+Humano começa;Minimax;3;OXX_X__O_;7;1;45;0.0440
+Humano começa;Poda Alfa-Beta;3;OXX_X__O_;7;1;31;0.0347
+Humano começa;Minimax;4;OXXXX_OO_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXXXX_OO_;9;1;4;0.0034
+Humano começa;Minimax;4;OXX_XXOO_;4;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OXX_XXOO_;4;1;3;0.0017
+Humano começa;Minimax;4;OXX_X_OOX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXX_X_OOX;4;1;4;0.0033
+Humano começa;Minimax;3;OX_XX__O_;6;0;51;0.0535
+Humano começa;Poda Alfa-Beta;3;OX_XX__O_;6;0;33;0.0456
+Humano começa;Minimax;4;OXXXXO_O_;7;0;5;0.0065
+Humano começa;Poda Alfa-Beta;4;OXXXXO_O_;7;0;5;0.0074
+Humano começa;Minimax;4;OX_XXOXO_;3;0;5;0.0066
+Humano começa;Poda Alfa-Beta;4;OX_XXOXO_;3;0;5;0.0071
+Humano começa;Minimax;4;OX_XXO_OX;3;0;5;0.0072
+Humano começa;Poda Alfa-Beta;4;OX_XXO_OX;3;0;5;0.0081
+Humano começa;Minimax;3;OX__XX_O_;4;0;47;0.0468
+Humano começa;Poda Alfa-Beta;3;OX__XX_O_;4;0;33;0.0511
+Humano começa;Minimax;4;OXXOXX_O_;7;1;4;0.0044
+Humano começa;Poda Alfa-Beta;4;OXXOXX_O_;7;1;4;0.0051
+Humano começa;Minimax;4;OX_OXXXO_;3;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;OX_OXXXO_;3;0;5;0.0073
+Humano começa;Minimax;4;OX_OXX_OX;7;1;4;0.0049
+Humano começa;Poda Alfa-Beta;4;OX_OXX_OX;7;1;4;0.0054
+Humano começa;Minimax;3;OX__X_XO_;3;0;53;0.0879
+Humano começa;Poda Alfa-Beta;3;OX__X_XO_;3;0;19;0.0345
+Humano começa;Minimax;4;OXOXX_XO_;6;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;OXOXX_XO_;6;0;5;0.0080
+Humano começa;Minimax;4;OXO_XXXO_;4;0;5;0.0068
+Humano começa;Poda Alfa-Beta;4;OXO_XXXO_;4;0;5;0.0076
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0091
+Humano começa;Minimax;3;OX__X__OX;3;0;61;0.1032
+Humano começa;Poda Alfa-Beta;3;OX__X__OX;3;0;43;0.0904
+Humano começa;Minimax;4;OXOXX__OX;6;0;5;0.0074
+Humano começa;Poda Alfa-Beta;4;OXOXX__OX;6;0;5;0.0075
+Humano começa;Minimax;4;OXO_XX_OX;4;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;OXO_XX_OX;4;0;5;0.0077
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0079
+Humano começa;Minimax;2;O_X_X____;7;0;933;1.5807
+Humano começa;Poda Alfa-Beta;2;O_X_X____;7;0;230;0.4466
+Humano começa;Minimax;3;OXX_X_O__;4;1;34;0.0507
+Humano começa;Poda Alfa-Beta;3;OXX_X_O__;4;1;18;0.0330
+Humano começa;Minimax;3;O_XXX_O__;6;0;51;0.0824
+Humano começa;Poda Alfa-Beta;3;O_XXX_O__;6;0;33;0.0585
+Humano começa;Minimax;4;OXXXXOO__;8;0;5;0.0073
+Humano começa;Poda Alfa-Beta;4;OXXXXOO__;8;0;5;0.0081
+Humano começa;Minimax;4;O_XXXOOX_;2;0;5;0.0086
+Humano começa;Poda Alfa-Beta;4;O_XXXOOX_;2;0;5;0.0079
+Humano começa;Minimax;4;O_XXXOO_X;2;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;O_XXXOO_X;2;0;5;0.0050
+Humano começa;Minimax;3;O_X_XXO__;4;1;24;0.0376
+Humano começa;Poda Alfa-Beta;3;O_X_XXO__;4;1;15;0.0239
+Humano começa;Minimax;3;O_X_X_OX_;4;1;38;0.0553
+Humano começa;Poda Alfa-Beta;3;O_X_X_OX_;4;1;16;0.0163
+Humano começa;Minimax;3;O_X_X_O_X;4;1;38;0.0364
+Humano começa;Poda Alfa-Beta;3;O_X_X_O_X;4;1;21;0.0225
+Humano começa;Minimax;2;O__XX____;6;0;1055;1.2959
+Humano começa;Poda Alfa-Beta;2;O__XX____;6;0;179;0.2338
+Humano começa;Minimax;3;OX_XXO___;8;0;51;0.0508
+Humano começa;Poda Alfa-Beta;3;OX_XXO___;8;0;35;0.0400
+Humano começa;Minimax;4;OXXXXO_O_;7;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OXXXXO_O_;7;0;5;0.0050
+Humano começa;Minimax;4;OX_XXOXO_;3;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;OX_XXOXO_;3;0;5;0.0049
+Humano começa;Minimax;4;OX_XXO_OX;3;0;5;0.0084
+Humano começa;Poda Alfa-Beta;4;OX_XXO_OX;3;0;5;0.0096
+Humano começa;Minimax;3;O_XXXO___;7;0;53;0.0552
+Humano começa;Poda Alfa-Beta;3;O_XXXO___;7;0;33;0.0409
+Humano começa;Minimax;4;OXXXXOO__;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXXXXOO__;8;0;5;0.0051
+Humano começa;Minimax;4;O_XXXOOX_;2;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;O_XXXOOX_;2;0;5;0.0064
+Humano começa;Minimax;4;O_XXXOO_X;2;0;5;0.0088
+Humano começa;Poda Alfa-Beta;4;O_XXXOO_X;2;0;5;0.0051
+Humano começa;Minimax;3;O__XXOX__;3;1;45;0.0455
+Humano começa;Poda Alfa-Beta;3;O__XXOX__;3;1;27;0.0285
+Humano começa;Minimax;4;OXOXXOX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXOXXOX__;9;1;4;0.0035
+Humano começa;Minimax;4;O_OXXOXX_;2;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;O_OXXOXX_;2;1;3;0.0017
+Humano começa;Minimax;4;O_OXXOX_X;2;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;O_OXXOX_X;2;1;4;0.0033
+Humano começa;Minimax;3;O__XXO_X_;2;0;47;0.0467
+Humano começa;Poda Alfa-Beta;3;O__XXO_X_;2;0;17;0.0182
+Humano começa;Minimax;4;OOXXXO_X_;7;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;OOXXXO_X_;7;0;5;0.0053
+Humano começa;Minimax;4;OO_XXOXX_;3;1;4;0.0038
+Humano começa;Poda Alfa-Beta;4;OO_XXOXX_;3;1;4;0.0058
+Humano começa;Minimax;4;OO_XXO_XX;3;1;4;0.0060
+Humano começa;Poda Alfa-Beta;4;OO_XXO_XX;3;1;4;0.0045
+Humano começa;Minimax;3;O__XXO__X;2;0;61;0.1037
+Humano começa;Poda Alfa-Beta;3;O__XXO__X;2;0;29;0.0609
+Humano começa;Minimax;4;OOXXXO__X;7;0;5;0.0088
+Humano começa;Poda Alfa-Beta;4;OOXXXO__X;7;0;5;0.0094
+Humano começa;Minimax;4;OO_XXOX_X;3;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OO_XXOX_X;3;1;4;0.0047
+Humano começa;Minimax;4;OO_XXO_XX;3;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;OO_XXO_XX;3;1;4;0.0055
+Humano começa;Minimax;2;O___XX___;4;0;831;0.8546
+Humano começa;Poda Alfa-Beta;2;O___XX___;4;0;171;0.1884
+Humano começa;Minimax;3;OX_OXX___;7;1;38;0.0360
+Humano começa;Poda Alfa-Beta;3;OX_OXX___;7;1;21;0.0226
+Humano começa;Minimax;3;O_XOXX___;7;1;26;0.0231
+Humano começa;Poda Alfa-Beta;3;O_XOXX___;7;1;17;0.0172
+Humano começa;Minimax;3;O__OXXX__;3;0;49;0.0462
+Humano começa;Poda Alfa-Beta;3;O__OXXX__;3;0;29;0.0322
+Humano começa;Minimax;4;OXOOXXX__;8;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXOOXXX__;8;0;5;0.0050
+Humano começa;Minimax;4;O_OOXXXX_;2;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;O_OOXXXX_;2;1;4;0.0030
+Humano começa;Minimax;4;O_OOXXX_X;2;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;O_OOXXX_X;2;1;4;0.0032
+Humano começa;Minimax;3;O__OXX_X_;2;1;34;0.0299
+Humano começa;Poda Alfa-Beta;3;O__OXX_X_;2;1;15;0.0145
+Humano começa;Minimax;4;OOXOXX_X_;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OOXOXX_X_;7;1;4;0.0035
+Humano começa;Minimax;4;OO_OXXXX_;3;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OO_OXXXX_;3;1;4;0.0032
+Humano começa;Minimax;4;OO_OXX_XX;3;1;3;0.0015
+Humano começa;Poda Alfa-Beta;4;OO_OXX_XX;3;1;3;0.0016
+Humano começa;Minimax;3;O__OXX__X;3;1;34;0.0301
+Humano começa;Poda Alfa-Beta;3;O__OXX__X;3;1;22;0.0222
+Humano começa;Minimax;4;OXOOXX__X;7;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OXOOXX__X;7;1;4;0.0035
+Humano começa;Minimax;4;O_OOXXX_X;2;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O_OOXXX_X;2;1;4;0.0032
+Humano começa;Minimax;4;O_OOXX_XX;2;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;O_OOXX_XX;2;1;3;0.0016
+Humano começa;Minimax;2;O___X_X__;3;0;933;0.9283
+Humano começa;Poda Alfa-Beta;2;O___X_X__;3;0;116;0.1330
+Humano começa;Minimax;3;OXO_X_X__;8;0;51;0.0519
+Humano começa;Poda Alfa-Beta;3;OXO_X_X__;8;0;39;0.0466
+Humano começa;Minimax;4;OXOXX_XO_;6;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXOXX_XO_;6;0;5;0.0050
+Humano começa;Minimax;4;OXO_XXXO_;4;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXO_XXXO_;4;0;5;0.0051
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0050
+Humano começa;Minimax;3;O_OXX_X__;2;1;34;0.0300
+Humano começa;Poda Alfa-Beta;3;O_OXX_X__;2;1;18;0.0196
+Humano começa;Minimax;3;O_O_XXX__;2;1;38;0.0341
+Humano começa;Poda Alfa-Beta;3;O_O_XXX__;2;1;20;0.0221
+Humano começa;Minimax;3;O_O_X_XX_;2;1;24;0.0178
+Humano começa;Poda Alfa-Beta;3;O_O_X_XX_;2;1;8;0.0067
+Humano começa;Minimax;3;O_O_X_X_X;2;1;38;0.0344
+Humano começa;Poda Alfa-Beta;3;O_O_X_X_X;2;1;20;0.0221
+Humano começa;Minimax;2;O___X__X_;2;0;831;0.8053
+Humano começa;Poda Alfa-Beta;2;O___X__X_;2;0;53;0.0578
+Humano começa;Minimax;3;OOX_X__X_;7;0;49;0.0517
+Humano começa;Poda Alfa-Beta;3;OOX_X__X_;7;0;33;0.0387
+Humano começa;Minimax;4;OOXXX_OX_;6;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;OOXXX_OX_;6;0;5;0.0053
+Humano começa;Minimax;4;OOX_XXOX_;4;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;OOX_XXOX_;4;1;4;0.0029
+Humano começa;Minimax;4;OOX_X_OXX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOX_X_OXX;4;1;4;0.0035
+Humano começa;Minimax;3;OO_XX__X_;3;1;38;0.0352
+Humano começa;Poda Alfa-Beta;3;OO_XX__X_;3;1;20;0.0224
+Humano começa;Minimax;3;OO__XX_X_;3;1;34;0.0293
+Humano começa;Poda Alfa-Beta;3;OO__XX_X_;3;1;18;0.0189
+Humano começa;Minimax;3;OO__X_XX_;3;1;26;0.0222
+Humano começa;Poda Alfa-Beta;3;OO__X_XX_;3;1;8;0.0074
+Humano começa;Minimax;3;OO__X__XX;3;1;34;0.0297
+Humano começa;Poda Alfa-Beta;3;OO__X__XX;3;1;18;0.0200
+Humano começa;Minimax;2;O___X___X;3;0;1173;1.1954
+Humano começa;Poda Alfa-Beta;2;O___X___X;3;0;279;0.3326
+Humano começa;Minimax;3;OXO_X___X;8;0;51;0.0534
+Humano começa;Poda Alfa-Beta;3;OXO_X___X;8;0;42;0.0503
+Humano começa;Minimax;4;OXOXX__OX;6;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;OXOXX__OX;6;0;5;0.0050
+Humano começa;Minimax;4;OXO_XX_OX;4;0;5;0.0078
+Humano começa;Poda Alfa-Beta;4;OXO_XX_OX;4;0;5;0.0065
+Humano começa;Minimax;4;OXO_X_XOX;4;0;5;0.0065
+Humano começa;Poda Alfa-Beta;4;OXO_X_XOX;4;0;5;0.0071
+Humano começa;Minimax;3;O_OXX___X;2;1;38;0.0504
+Humano começa;Poda Alfa-Beta;3;O_OXX___X;2;1;20;0.0346
+Humano começa;Minimax;3;O_O_XX__X;2;1;34;0.0473
+Humano começa;Poda Alfa-Beta;3;O_O_XX__X;2;1;18;0.0319
+Humano começa;Minimax;3;O_O_X_X_X;2;1;38;0.0359
+Humano começa;Poda Alfa-Beta;3;O_O_X_X_X;2;1;20;0.0224
+Humano começa;Minimax;3;O_O_X__XX;2;1;24;0.0234
+Humano começa;Poda Alfa-Beta;3;O_O_X__XX;2;1;8;0.0068
+Humano começa;Minimax;1;_____X___;3;0;63905;66.4180
+Humano começa;Poda Alfa-Beta;1;_____X___;3;0;3590;4.3623
+Humano começa;Minimax;2;X_O__X___;4;0;1405;1.4580
+Humano começa;Poda Alfa-Beta;2;X_O__X___;4;0;393;0.4960
+Humano começa;Minimax;3;XXOO_X___;5;0;61;0.0644
+Humano começa;Poda Alfa-Beta;3;XXOO_X___;5;0;29;0.0351
+Humano começa;Minimax;4;XXOOOXX__;8;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;XXOOOXX__;8;0;5;0.0052
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0037
+Humano começa;Minimax;4;XXOOOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX__X;7;1;4;0.0037
+Humano começa;Minimax;3;X_OOXX___;9;0;53;0.0551
+Humano começa;Poda Alfa-Beta;3;X_OOXX___;9;0;43;0.0532
+Humano começa;Minimax;4;XXOOXX__O;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;XXOOXX__O;8;0;5;0.0050
+Humano começa;Minimax;4;X_OOXXX_O;2;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;X_OOXXX_O;2;0;5;0.0052
+Humano começa;Minimax;4;X_OOXX_XO;2;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;X_OOXX_XO;2;0;5;0.0049
+Humano começa;Minimax;3;X_OO_XX__;5;0;65;0.0694
+Humano começa;Poda Alfa-Beta;3;X_OO_XX__;5;0;45;0.0544
+Humano começa;Minimax;4;XXOOOXX__;8;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;XXOOOXX__;8;0;5;0.0050
+Humano começa;Minimax;4;X_OOOXXX_;9;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;X_OOOXXX_;9;0;5;0.0050
+Humano começa;Minimax;4;X_OOOXX_X;8;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;X_OOOXX_X;8;0;5;0.0049
+Humano começa;Minimax;3;X_OO_X_X_;5;0;61;0.0640
+Humano começa;Poda Alfa-Beta;3;X_OO_X_X_;5;0;47;0.0609
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0057
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0055
+Humano começa;Minimax;4;X_OOOXXX_;9;0;5;0.0078
+Humano começa;Poda Alfa-Beta;4;X_OOOXXX_;9;0;5;0.0058
+Humano começa;Minimax;4;X_OOOX_XX;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;X_OOOX_XX;7;1;4;0.0033
+Humano começa;Minimax;3;X_OO_X__X;5;0;49;0.0507
+Humano começa;Poda Alfa-Beta;3;X_OO_X__X;5;0;35;0.0409
+Humano começa;Minimax;4;XXOOOX__X;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XXOOOX__X;7;1;4;0.0037
+Humano começa;Minimax;4;X_OOOXX_X;8;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;X_OOOXX_X;8;0;5;0.0050
+Humano começa;Minimax;4;X_OOOX_XX;7;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;X_OOOX_XX;7;1;4;0.0034
+Humano começa;Minimax;2;_XO__X___;4;0;1465;1.5205
+Humano começa;Poda Alfa-Beta;2;_XO__X___;4;0;396;0.4753
+Humano começa;Minimax;3;XXOO_X___;5;0;61;0.0657
+Humano começa;Poda Alfa-Beta;3;XXOO_X___;5;0;29;0.0351
+Humano começa;Minimax;4;XXOOOXX__;8;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XXOOOXX__;8;0;5;0.0051
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Minimax;4;XXOOOX__X;7;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XXOOOX__X;7;1;4;0.0034
+Humano começa;Minimax;3;_XOOXX___;8;0;51;0.0496
+Humano começa;Poda Alfa-Beta;3;_XOOXX___;8;0;34;0.0388
+Humano começa;Minimax;4;XXOOXX_O_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XXOOXX_O_;9;0;5;0.0052
+Humano começa;Minimax;4;_XOOXXXO_;1;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;_XOOXXXO_;1;0;5;0.0050
+Humano começa;Minimax;4;_XOOXX_OX;1;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;_XOOXX_OX;1;0;5;0.0047
+Humano começa;Minimax;3;_XOO_XX__;5;0;65;0.0706
+Humano começa;Poda Alfa-Beta;3;_XOO_XX__;5;0;43;0.0519
+Humano começa;Minimax;4;XXOOOXX__;8;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;XXOOOXX__;8;0;5;0.0054
+Humano começa;Minimax;4;_XOOOXXX_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;_XOOOXXX_;9;0;5;0.0050
+Humano começa;Minimax;4;_XOOOXX_X;8;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;_XOOOXX_X;8;0;5;0.0049
+Humano começa;Minimax;3;_XOO_X_X_;5;0;47;0.0451
+Humano começa;Poda Alfa-Beta;3;_XOO_X_X_;5;0;35;0.0385
+Humano começa;Minimax;4;XXOOOX_X_;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XXOOOX_X_;7;1;4;0.0037
+Humano começa;Minimax;4;_XOOOXXX_;9;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;_XOOOXXX_;9;0;5;0.0052
+Humano começa;Minimax;4;_XOOOX_XX;7;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;_XOOOX_XX;7;1;4;0.0031
+Humano começa;Minimax;3;_XOO_X__X;7;1;57;0.0565
+Humano começa;Poda Alfa-Beta;3;_XOO_X__X;7;1;40;0.0448
+Humano começa;Minimax;4;XXOO_XO_X;5;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XXOO_XO_X;5;1;4;0.0035
+Humano começa;Minimax;4;_XOOXXO_X;1;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;_XOOXXO_X;1;1;4;0.0032
+Humano começa;Minimax;4;_XOO_XOXX;1;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;_XOO_XOXX;1;1;3;0.0018
+Humano começa;Minimax;2;__OX_X___;5;1;899;0.8157
+Humano começa;Poda Alfa-Beta;2;__OX_X___;5;1;135;0.1543
+Humano começa;Minimax;3;X_OXOX___;7;1;30;0.0280
+Humano começa;Poda Alfa-Beta;3;X_OXOX___;7;1;18;0.0194
+Humano começa;Minimax;3;_XOXOX___;1;1;40;0.0391
+Humano começa;Poda Alfa-Beta;3;_XOXOX___;1;1;21;0.0233
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0037
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0022
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0037
+Humano começa;Minimax;3;__OXOXX__;1;1;43;0.0377
+Humano começa;Poda Alfa-Beta;3;__OXOXX__;1;1;16;0.0163
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0036
+Humano começa;Minimax;4;O_OXOXXX_;2;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;O_OXOXXX_;2;1;3;0.0017
+Humano começa;Minimax;4;O_OXOXX_X;2;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O_OXOXX_X;2;1;4;0.0034
+Humano começa;Minimax;3;__OXOX_X_;1;1;36;0.0317
+Humano começa;Poda Alfa-Beta;3;__OXOX_X_;1;1;20;0.0211
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0021
+Humano começa;Minimax;4;O_OXOXXX_;2;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;O_OXOXXX_;2;1;3;0.0017
+Humano começa;Minimax;4;O_OXOX_XX;2;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;O_OXOX_XX;2;1;3;0.0018
+Humano começa;Minimax;3;__OXOX__X;1;1;36;0.0319
+Humano começa;Poda Alfa-Beta;3;__OXOX__X;1;1;19;0.0194
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Minimax;4;O_OXOXX_X;2;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O_OXOXX_X;2;1;4;0.0032
+Humano começa;Minimax;4;O_OXOX_XX;2;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;O_OXOX_XX;2;1;3;0.0017
+Humano começa;Minimax;2;__O_XX___;4;0;1055;1.0435
+Humano começa;Poda Alfa-Beta;2;__O_XX___;4;0;209;0.2530
+Humano começa;Minimax;3;X_OOXX___;9;0;53;0.0560
+Humano começa;Poda Alfa-Beta;3;X_OOXX___;9;0;43;0.0521
+Humano começa;Minimax;4;XXOOXX__O;8;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XXOOXX__O;8;0;5;0.0051
+Humano começa;Minimax;4;X_OOXXX_O;2;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;X_OOXXX_O;2;0;5;0.0059
+Humano começa;Minimax;4;X_OOXX_XO;2;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;X_OOXX_XO;2;0;5;0.0051
+Humano começa;Minimax;3;_XOOXX___;8;0;51;0.0506
+Humano começa;Poda Alfa-Beta;3;_XOOXX___;8;0;34;0.0394
+Humano começa;Minimax;4;XXOOXX_O_;9;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;XXOOXX_O_;9;0;5;0.0052
+Humano começa;Minimax;4;_XOOXXXO_;1;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;_XOOXXXO_;1;0;5;0.0050
+Humano começa;Minimax;4;_XOOXX_OX;1;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;_XOOXX_OX;1;0;5;0.0048
+Humano começa;Minimax;3;__OOXXX__;1;0;61;0.0606
+Humano começa;Poda Alfa-Beta;3;__OOXXX__;1;0;29;0.0333
+Humano começa;Minimax;4;OXOOXXX__;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXOOXXX__;8;0;5;0.0050
+Humano começa;Minimax;4;O_OOXXXX_;2;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;O_OOXXXX_;2;1;4;0.0030
+Humano começa;Minimax;4;O_OOXXX_X;2;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;O_OOXXX_X;2;1;4;0.0032
+Humano começa;Minimax;3;__OOXX_X_;2;0;47;0.0743
+Humano começa;Poda Alfa-Beta;3;__OOXX_X_;2;0;29;0.0547
+Humano começa;Minimax;4;XOOOXX_X_;9;0;5;0.0083
+Humano começa;Poda Alfa-Beta;4;XOOOXX_X_;9;0;5;0.0092
+Humano começa;Minimax;4;_OOOXXXX_;1;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;_OOOXXXX_;1;1;4;0.0054
+Humano começa;Minimax;4;_OOOXX_XX;1;1;4;0.0048
+Humano começa;Poda Alfa-Beta;4;_OOOXX_XX;1;1;4;0.0051
+Humano começa;Minimax;3;__OOXX__X;1;1;45;0.0704
+Humano começa;Poda Alfa-Beta;3;__OOXX__X;1;1;16;0.0279
+Humano começa;Minimax;4;OXOOXX__X;7;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OXOOXX__X;7;1;4;0.0059
+Humano começa;Minimax;4;O_OOXXX_X;2;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;O_OOXXX_X;2;1;4;0.0055
+Humano começa;Minimax;4;O_OOXX_XX;2;1;3;0.0026
+Humano começa;Poda Alfa-Beta;4;O_OOXX_XX;2;1;3;0.0027
+Humano começa;Minimax;2;__O__XX__;1;0;1457;2.5612
+Humano começa;Poda Alfa-Beta;2;__O__XX__;1;0;161;0.3461
+Humano começa;Minimax;3;OXO__XX__;5;0;61;0.1062
+Humano começa;Poda Alfa-Beta;3;OXO__XX__;5;0;45;0.0896
+Humano começa;Minimax;4;OXOXOXX__;9;1;4;0.0061
+Humano começa;Poda Alfa-Beta;4;OXOXOXX__;9;1;4;0.0062
+Humano começa;Minimax;4;OXO_OXXX_;9;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OXO_OXXX_;9;1;4;0.0059
+Humano começa;Minimax;4;OXO_OXX_X;8;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OXO_OXX_X;8;0;5;0.0087
+Humano começa;Minimax;3;O_OX_XX__;2;1;34;0.0532
+Humano começa;Poda Alfa-Beta;3;O_OX_XX__;2;1;18;0.0336
+Humano começa;Minimax;3;O_O_XXX__;2;1;38;0.0603
+Humano começa;Poda Alfa-Beta;3;O_O_XXX__;2;1;20;0.0385
+Humano começa;Minimax;3;O_O__XXX_;2;1;34;0.0509
+Humano começa;Poda Alfa-Beta;3;O_O__XXX_;2;1;18;0.0336
+Humano começa;Minimax;3;O_O__XX_X;2;1;38;0.0629
+Humano começa;Poda Alfa-Beta;3;O_O__XX_X;2;1;20;0.0409
+Humano começa;Minimax;2;__O__X_X_;1;1;1241;2.0994
+Humano começa;Poda Alfa-Beta;2;__O__X_X_;1;1;149;0.3039
+Humano começa;Minimax;3;OXO__X_X_;5;1;43;0.0688
+Humano começa;Poda Alfa-Beta;3;OXO__X_X_;5;1;31;0.0590
+Humano começa;Minimax;4;OXOXOX_X_;7;1;3;0.0037
+Humano começa;Poda Alfa-Beta;4;OXOXOX_X_;7;1;3;0.0035
+Humano começa;Minimax;4;OXO_OXXX_;9;1;4;0.0057
+Humano começa;Poda Alfa-Beta;4;OXO_OXXX_;9;1;4;0.0059
+Humano começa;Minimax;4;OXO_OX_XX;7;1;4;0.0057
+Humano começa;Poda Alfa-Beta;4;OXO_OX_XX;7;1;4;0.0057
+Humano começa;Minimax;3;O_OX_X_X_;2;1;30;0.0422
+Humano começa;Poda Alfa-Beta;3;O_OX_X_X_;2;1;16;0.0279
+Humano começa;Minimax;3;O_O_XX_X_;2;1;24;0.0305
+Humano começa;Poda Alfa-Beta;3;O_O_XX_X_;2;1;8;0.0115
+Humano começa;Minimax;3;O_O__XXX_;2;1;34;0.0500
+Humano começa;Poda Alfa-Beta;3;O_O__XXX_;2;1;18;0.0340
+Humano começa;Minimax;3;O_O__X_XX;2;1;30;0.0416
+Humano começa;Poda Alfa-Beta;3;O_O__X_XX;2;1;16;0.0277
+Humano começa;Minimax;2;__O__X__X;1;1;1229;2.0794
+Humano começa;Poda Alfa-Beta;2;__O__X__X;1;1;146;0.3090
+Humano começa;Minimax;3;OXO__X__X;7;1;57;0.0991
+Humano começa;Poda Alfa-Beta;3;OXO__X__X;7;1;40;0.0831
+Humano começa;Minimax;4;OXOX_XO_X;5;1;4;0.0059
+Humano começa;Poda Alfa-Beta;4;OXOX_XO_X;5;1;4;0.0056
+Humano começa;Minimax;4;OXO_XXO_X;4;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;OXO_XXO_X;4;1;4;0.0052
+Humano começa;Minimax;4;OXO__XOXX;4;1;3;0.0032
+Humano começa;Poda Alfa-Beta;4;OXO__XOXX;4;1;3;0.0034
+Humano começa;Minimax;3;O_OX_X__X;2;1;34;0.0532
+Humano começa;Poda Alfa-Beta;3;O_OX_X__X;2;1;18;0.0335
+Humano começa;Minimax;3;O_O_XX__X;2;1;34;0.0506
+Humano começa;Poda Alfa-Beta;3;O_O_XX__X;2;1;18;0.0328
+Humano começa;Minimax;3;O_O__XX_X;2;1;38;0.0629
+Humano começa;Poda Alfa-Beta;3;O_O__XX_X;2;1;20;0.0400
+Humano começa;Minimax;3;O_O__X_XX;2;1;30;0.0422
+Humano começa;Poda Alfa-Beta;3;O_O__X_XX;2;1;16;0.0281
+Humano começa;Minimax;1;______X__;5;0;59705;59.4313
+Humano começa;Poda Alfa-Beta;1;______X__;5;0;3809;4.4898
+Humano começa;Minimax;2;X___O_X__;4;0;927;0.8940
+Humano começa;Poda Alfa-Beta;2;X___O_X__;4;0;189;0.2085
+Humano começa;Minimax;3;XX_OO_X__;6;1;38;0.0368
+Humano começa;Poda Alfa-Beta;3;XX_OO_X__;6;1;16;0.0170
+Humano começa;Minimax;3;X_XOO_X__;2;1;34;0.0312
+Humano começa;Poda Alfa-Beta;3;X_XOO_X__;2;1;15;0.0150
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0036
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0035
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0018
+Humano começa;Minimax;3;X__OOXX__;2;0;61;0.0619
+Humano começa;Poda Alfa-Beta;3;X__OOXX__;2;0;33;0.0409
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0036
+Humano começa;Minimax;4;XO_OOXXX_;9;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;XO_OOXXX_;9;0;5;0.0047
+Humano começa;Minimax;4;XO_OOXX_X;8;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;XO_OOXX_X;8;1;4;0.0030
+Humano começa;Minimax;3;X__OO_XX_;6;1;38;0.0359
+Humano começa;Poda Alfa-Beta;3;X__OO_XX_;6;1;29;0.0308
+Humano começa;Minimax;3;X__OO_X_X;6;1;34;0.0295
+Humano começa;Poda Alfa-Beta;3;X__OO_X_X;6;1;27;0.0272
+Humano começa;Minimax;2;_X__O_X__;1;0;1277;1.2749
+Humano começa;Poda Alfa-Beta;2;_X__O_X__;1;0;311;0.3635
+Humano começa;Minimax;3;OXX_O_X__;4;1;40;0.0386
+Humano começa;Poda Alfa-Beta;3;OXX_O_X__;4;1;21;0.0419
+Humano começa;Minimax;4;OXXOOXX__;9;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OXXOOXX__;9;1;4;0.0037
+Humano começa;Minimax;4;OXXOO_XX_;6;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OXXOO_XX_;6;1;3;0.0021
+Humano começa;Minimax;4;OXXOO_X_X;6;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OXXOO_X_X;6;1;4;0.0037
+Humano começa;Minimax;3;OX_XO_X__;9;1;44;0.0475
+Humano começa;Poda Alfa-Beta;3;OX_XO_X__;9;1;44;0.0539
+Humano começa;Minimax;3;OX__OXX__;9;1;44;0.0445
+Humano começa;Poda Alfa-Beta;3;OX__OXX__;9;1;44;0.0666
+Humano começa;Minimax;3;OX__O_XX_;9;1;30;0.0257
+Humano começa;Poda Alfa-Beta;3;OX__O_XX_;9;1;30;0.0294
+Humano começa;Minimax;3;OX__O_X_X;8;0;51;0.0502
+Humano começa;Poda Alfa-Beta;3;OX__O_X_X;8;0;46;0.0546
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0051
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0051
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0050
+Humano começa;Minimax;2;__X_O_X__;2;0;1053;1.0057
+Humano começa;Poda Alfa-Beta;2;__X_O_X__;2;0;365;0.4022
+Humano começa;Minimax;3;XOX_O_X__;4;1;34;0.0316
+Humano começa;Poda Alfa-Beta;3;XOX_O_X__;4;1;15;0.0154
+Humano começa;Minimax;4;XOXOOXX__;8;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOXOOXX__;8;1;4;0.0036
+Humano começa;Minimax;4;XOXOO_XX_;6;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXOO_XX_;6;1;4;0.0034
+Humano começa;Minimax;4;XOXOO_X_X;6;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;XOXOO_X_X;6;1;3;0.0017
+Humano começa;Minimax;3;_OXXO_X__;1;1;34;0.0331
+Humano começa;Poda Alfa-Beta;3;_OXXO_X__;1;1;18;0.0183
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0022
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0035
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0033
+Humano começa;Minimax;3;_OX_OXX__;8;1;34;0.0326
+Humano começa;Poda Alfa-Beta;3;_OX_OXX__;8;1;27;0.0294
+Humano começa;Minimax;3;_OX_O_XX_;9;0;47;0.0434
+Humano começa;Poda Alfa-Beta;3;_OX_O_XX_;9;0;42;0.0454
+Humano começa;Minimax;4;XOX_O_XXO;4;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;XOX_O_XXO;4;0;5;0.0048
+Humano começa;Minimax;4;_OXXO_XXO;1;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;_OXXO_XXO;1;1;4;0.0032
+Humano começa;Minimax;4;_OX_OXXXO;1;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;_OX_OXXXO;1;1;4;0.0035
+Humano começa;Minimax;3;_OX_O_X_X;8;1;24;0.0189
+Humano começa;Poda Alfa-Beta;3;_OX_O_X_X;8;1;23;0.0218
+Humano começa;Minimax;2;___XO_X__;1;0;935;0.8680
+Humano começa;Poda Alfa-Beta;2;___XO_X__;1;0;144;0.1699
+Humano começa;Minimax;3;OX_XO_X__;9;1;44;0.0444
+Humano começa;Poda Alfa-Beta;3;OX_XO_X__;9;1;44;0.0495
+Humano começa;Minimax;3;O_XXO_X__;2;1;40;0.0388
+Humano começa;Poda Alfa-Beta;3;O_XXO_X__;2;1;24;0.0276
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Minimax;4;OOXXO_XX_;9;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OOXXO_XX_;9;1;4;0.0034
+Humano começa;Minimax;4;OOXXO_X_X;8;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OOXXO_X_X;8;1;4;0.0032
+Humano começa;Minimax;3;O__XOXX__;2;1;36;0.0320
+Humano começa;Poda Alfa-Beta;3;O__XOXX__;2;1;20;0.0215
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0021
+Humano começa;Minimax;4;OO_XOXXX_;3;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OO_XOXXX_;3;1;3;0.0017
+Humano começa;Minimax;4;OO_XOXX_X;3;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;OO_XOXX_X;3;1;3;0.0016
+Humano começa;Minimax;3;O__XO_XX_;9;1;30;0.0256
+Humano começa;Poda Alfa-Beta;3;O__XO_XX_;9;1;28;0.0280
+Humano começa;Minimax;3;O__XO_X_X;8;0;47;0.0447
+Humano começa;Poda Alfa-Beta;3;O__XO_X_X;8;0;40;0.0420
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0049
+Humano começa;Minimax;4;O_XXO_XOX;2;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;O_XXO_XOX;2;1;4;0.0033
+Humano começa;Minimax;4;O__XOXXOX;2;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O__XOXXOX;2;1;4;0.0034
+Humano começa;Minimax;2;____OXX__;2;0;1277;1.3070
+Humano começa;Poda Alfa-Beta;2;____OXX__;2;0;376;0.4478
+Humano começa;Minimax;3;XO__OXX__;8;1;38;0.0355
+Humano começa;Poda Alfa-Beta;3;XO__OXX__;8;1;29;0.0321
+Humano começa;Minimax;3;_OX_OXX__;8;1;34;0.0335
+Humano começa;Poda Alfa-Beta;3;_OX_OXX__;8;1;27;0.0289
+Humano começa;Minimax;3;_O_XOXX__;1;1;30;0.0239
+Humano começa;Poda Alfa-Beta;3;_O_XOXX__;1;1;14;0.0127
+Humano começa;Minimax;4;OOXXOXX__;8;1;3;0.0020
+Humano começa;Poda Alfa-Beta;4;OOXXOXX__;8;1;3;0.0021
+Humano começa;Minimax;4;OO_XOXXX_;3;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;OO_XOXXX_;3;1;3;0.0017
+Humano começa;Minimax;4;OO_XOXX_X;3;1;3;0.0015
+Humano começa;Poda Alfa-Beta;4;OO_XOXX_X;3;1;3;0.0017
+Humano começa;Minimax;3;_O__OXXX_;9;0;47;0.0433
+Humano começa;Poda Alfa-Beta;3;_O__OXXX_;9;0;37;0.0403
+Humano começa;Minimax;4;XO__OXXXO;4;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;XO__OXXXO;4;0;5;0.0046
+Humano começa;Minimax;4;_OX_OXXXO;1;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;_OX_OXXXO;1;1;4;0.0035
+Humano começa;Minimax;4;_O_XOXXXO;1;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;_O_XOXXXO;1;1;4;0.0033
+Humano começa;Minimax;3;_O__OXX_X;8;1;24;0.0193
+Humano começa;Poda Alfa-Beta;3;_O__OXX_X;8;1;21;0.0193
+Humano começa;Minimax;2;____O_XX_;9;0;935;0.8866
+Humano começa;Poda Alfa-Beta;2;____O_XX_;9;0;402;0.4346
+Humano começa;Minimax;3;X___O_XXO;4;0;47;0.0440
+Humano começa;Poda Alfa-Beta;3;X___O_XXO;4;0;40;0.0430
+Humano começa;Minimax;4;XX_OO_XXO;6;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;XX_OO_XXO;6;1;4;0.0035
+Humano começa;Minimax;4;X_XOO_XXO;6;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;X_XOO_XXO;6;1;4;0.0037
+Humano começa;Minimax;4;X__OOXXXO;2;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;X__OOXXXO;2;0;5;0.0052
+Humano começa;Minimax;3;_X__O_XXO;1;1;36;0.0315
+Humano começa;Poda Alfa-Beta;3;_X__O_XXO;1;1;16;0.0162
+Humano começa;Minimax;3;__X_O_XXO;1;1;40;0.0364
+Humano começa;Poda Alfa-Beta;3;__X_O_XXO;1;1;18;0.0183
+Humano começa;Minimax;3;___XO_XXO;1;1;30;0.0246
+Humano começa;Poda Alfa-Beta;3;___XO_XXO;1;1;8;0.0068
+Humano começa;Minimax;3;____OXXXO;1;1;44;0.0428
+Humano começa;Poda Alfa-Beta;3;____OXXXO;1;1;20;0.0225
+Humano começa;Minimax;2;____O_X_X;8;0;927;0.9038
+Humano começa;Poda Alfa-Beta;2;____O_X_X;8;0;453;0.5014
+Humano começa;Minimax;3;X___O_XOX;2;1;34;0.0309
+Humano começa;Poda Alfa-Beta;3;X___O_XOX;2;1;18;0.0185
+Humano começa;Minimax;3;_X__O_XOX;1;0;61;0.0636
+Humano começa;Poda Alfa-Beta;3;_X__O_XOX;1;0;47;0.0545
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0054
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0052
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0051
+Humano começa;Minimax;3;__X_O_XOX;2;1;34;0.0304
+Humano começa;Poda Alfa-Beta;3;__X_O_XOX;2;1;19;0.0197
+Humano começa;Minimax;3;___XO_XOX;2;1;38;0.0352
+Humano começa;Poda Alfa-Beta;3;___XO_XOX;2;1;16;0.0160
+Humano começa;Minimax;3;____OXXOX;2;1;38;0.0357
+Humano começa;Poda Alfa-Beta;3;____OXXOX;2;1;21;0.0225
+Humano começa;Minimax;1;_______X_;2;0;63905;79.5378
+Humano começa;Poda Alfa-Beta;1;_______X_;2;0;4981;7.7624
+Humano começa;Minimax;2;XO_____X_;7;0;1585;1.9805
+Humano começa;Poda Alfa-Beta;2;XO_____X_;7;0;671;0.8391
+Humano começa;Minimax;3;XOX___OX_;5;0;65;0.0693
+Humano começa;Poda Alfa-Beta;3;XOX___OX_;5;0;45;0.0548
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0053
+Humano começa;Minimax;4;XOX_OXOX_;9;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOX_OXOX_;9;0;5;0.0052
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0051
+Humano começa;Minimax;3;XO_X__OX_;5;0;61;0.0624
+Humano começa;Poda Alfa-Beta;3;XO_X__OX_;5;0;33;0.0385
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0052
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0038
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0037
+Humano começa;Minimax;3;XO__X_OX_;9;0;53;0.0547
+Humano começa;Poda Alfa-Beta;3;XO__X_OX_;9;0;51;0.0593
+Humano começa;Minimax;4;XOX_X_OXO;4;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;XOX_X_OXO;4;0;5;0.0054
+Humano começa;Minimax;4;XO_XX_OXO;6;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;XO_XX_OXO;6;0;5;0.0047
+Humano começa;Minimax;4;XO__XXOXO;4;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;XO__XXOXO;4;0;5;0.0048
+Humano começa;Minimax;3;XO___XOX_;5;0;61;0.0629
+Humano começa;Poda Alfa-Beta;3;XO___XOX_;5;0;46;0.0565
+Humano começa;Minimax;4;XOX_OXOX_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XOX_OXOX_;9;0;5;0.0050
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0036
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0034
+Humano começa;Minimax;3;XO____OXX;5;0;49;0.0493
+Humano começa;Poda Alfa-Beta;3;XO____OXX;5;0;32;0.0376
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0050
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0034
+Humano começa;Minimax;2;_OX____X_;7;0;1585;1.7505
+Humano começa;Poda Alfa-Beta;2;_OX____X_;7;0;665;0.9650
+Humano começa;Minimax;3;XOX___OX_;5;0;65;0.1112
+Humano começa;Poda Alfa-Beta;3;XOX___OX_;5;0;45;0.0923
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0083
+Humano começa;Minimax;4;XOX_OXOX_;9;0;5;0.0074
+Humano começa;Poda Alfa-Beta;4;XOX_OXOX_;9;0;5;0.0088
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0076
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0084
+Humano começa;Minimax;3;_OXX__OX_;5;0;65;0.1070
+Humano começa;Poda Alfa-Beta;3;_OXX__OX_;5;0;43;0.0793
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0070
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0072
+Humano começa;Minimax;4;_OXXOXOX_;9;0;5;0.0076
+Humano começa;Poda Alfa-Beta;4;_OXXOXOX_;9;0;5;0.0083
+Humano começa;Minimax;4;_OXXO_OXX;6;0;5;0.0067
+Humano começa;Poda Alfa-Beta;4;_OXXO_OXX;6;0;5;0.0077
+Humano começa;Minimax;3;_OX_X_OX_;1;0;61;0.0939
+Humano começa;Poda Alfa-Beta;3;_OX_X_OX_;1;0;29;0.0574
+Humano começa;Minimax;4;OOXXX_OX_;6;0;5;0.0074
+Humano começa;Poda Alfa-Beta;4;OOXXX_OX_;6;0;5;0.0079
+Humano começa;Minimax;4;OOX_XXOX_;4;1;4;0.0048
+Humano começa;Poda Alfa-Beta;4;OOX_XXOX_;4;1;4;0.0047
+Humano começa;Minimax;4;OOX_X_OXX;4;1;4;0.0056
+Humano começa;Poda Alfa-Beta;4;OOX_X_OXX;4;1;4;0.0053
+Humano começa;Minimax;3;_OX__XOX_;9;0;51;0.0741
+Humano começa;Poda Alfa-Beta;3;_OX__XOX_;9;0;47;0.0877
+Humano começa;Minimax;4;XOX__XOXO;4;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;XOX__XOXO;4;0;5;0.0084
+Humano começa;Minimax;4;_OXX_XOXO;5;0;5;0.0070
+Humano começa;Poda Alfa-Beta;4;_OXX_XOXO;5;0;5;0.0074
+Humano começa;Minimax;4;_OX_XXOXO;4;0;5;0.0068
+Humano começa;Poda Alfa-Beta;4;_OX_XXOXO;4;0;5;0.0073
+Humano começa;Minimax;3;_OX___OXX;6;0;51;0.0745
+Humano começa;Poda Alfa-Beta;3;_OX___OXX;6;0;40;0.0701
+Humano começa;Minimax;4;XOX__OOXX;5;0;5;0.0072
+Humano começa;Poda Alfa-Beta;4;XOX__OOXX;5;0;5;0.0078
+Humano começa;Minimax;4;_OXX_OOXX;1;0;5;0.0073
+Humano começa;Poda Alfa-Beta;4;_OXX_OOXX;1;0;5;0.0078
+Humano começa;Minimax;4;_OX_XOOXX;1;0;5;0.0070
+Humano começa;Poda Alfa-Beta;4;_OX_XOOXX;1;0;5;0.0074
+Humano começa;Minimax;2;_O_X___X_;7;0;1421;1.6976
+Humano começa;Poda Alfa-Beta;2;_O_X___X_;7;0;407;0.8727
+Humano começa;Minimax;3;XO_X__OX_;5;0;61;0.0643
+Humano começa;Poda Alfa-Beta;3;XO_X__OX_;5;0;33;0.0405
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0087
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0059
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0059
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0058
+Humano começa;Minimax;3;_OXX__OX_;5;0;65;0.1077
+Humano começa;Poda Alfa-Beta;3;_OXX__OX_;5;0;43;0.1009
+Humano começa;Minimax;4;XOXXO_OX_;6;0;5;0.0081
+Humano começa;Poda Alfa-Beta;4;XOXXO_OX_;6;0;5;0.0106
+Humano começa;Minimax;4;_OXXOXOX_;9;0;5;0.0093
+Humano começa;Poda Alfa-Beta;4;_OXXOXOX_;9;0;5;0.0077
+Humano começa;Minimax;4;_OXXO_OXX;6;0;5;0.0079
+Humano começa;Poda Alfa-Beta;4;_OXXO_OXX;6;0;5;0.0084
+Humano começa;Minimax;3;_O_XX_OX_;6;0;51;0.0839
+Humano começa;Poda Alfa-Beta;3;_O_XX_OX_;6;0;34;0.0382
+Humano começa;Minimax;4;XO_XXOOX_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XO_XXOOX_;9;0;5;0.0051
+Humano começa;Minimax;4;_OXXXOOX_;1;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;_OXXXOOX_;1;0;5;0.0052
+Humano começa;Minimax;4;_O_XXOOXX;1;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;_O_XXOOXX;1;0;5;0.0047
+Humano começa;Minimax;3;_O_X_XOX_;5;0;47;0.0434
+Humano começa;Poda Alfa-Beta;3;_O_X_XOX_;5;0;36;0.0415
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0035
+Humano começa;Minimax;4;_OXXOXOX_;9;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;_OXXOXOX_;9;0;5;0.0049
+Humano começa;Minimax;4;_O_XOXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;_O_XOXOXX;3;1;4;0.0033
+Humano começa;Minimax;3;_O_X__OXX;3;1;57;0.0557
+Humano começa;Poda Alfa-Beta;3;_O_X__OXX;3;1;31;0.0343
+Humano começa;Minimax;4;XOOX__OXX;5;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOOX__OXX;5;1;4;0.0037
+Humano começa;Minimax;4;_OOXX_OXX;1;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;_OOXX_OXX;1;1;4;0.0050
+Humano começa;Minimax;4;_OOX_XOXX;1;1;3;0.0026
+Humano começa;Poda Alfa-Beta;4;_OOX_XOXX;1;1;3;0.0028
+Humano começa;Minimax;2;_O__X__X_;1;0;1349;1.6941
+Humano começa;Poda Alfa-Beta;2;_O__X__X_;1;0;189;0.2254
+Humano começa;Minimax;3;OOX_X__X_;7;0;49;0.0489
+Humano começa;Poda Alfa-Beta;3;OOX_X__X_;7;0;33;0.0391
+Humano começa;Minimax;4;OOXXX_OX_;6;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OOXXX_OX_;6;0;5;0.0049
+Humano começa;Minimax;4;OOX_XXOX_;4;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OOX_XXOX_;4;1;4;0.0030
+Humano começa;Minimax;4;OOX_X_OXX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOX_X_OXX;4;1;4;0.0035
+Humano começa;Minimax;3;OO_XX__X_;3;1;38;0.0378
+Humano começa;Poda Alfa-Beta;3;OO_XX__X_;3;1;20;0.0362
+Humano começa;Minimax;3;OO__XX_X_;3;1;34;0.0504
+Humano começa;Poda Alfa-Beta;3;OO__XX_X_;3;1;18;0.0298
+Humano começa;Minimax;3;OO__X_XX_;3;1;26;0.0272
+Humano começa;Poda Alfa-Beta;3;OO__X_XX_;3;1;8;0.0072
+Humano começa;Minimax;3;OO__X__XX;3;1;34;0.0305
+Humano começa;Poda Alfa-Beta;3;OO__X__XX;3;1;18;0.0189
+Humano começa;Minimax;2;_O___X_X_;7;0;1421;1.5587
+Humano começa;Poda Alfa-Beta;2;_O___X_X_;7;0;592;0.7780
+Humano começa;Minimax;3;XO___XOX_;5;0;61;0.0618
+Humano começa;Poda Alfa-Beta;3;XO___XOX_;5;0;46;0.0551
+Humano começa;Minimax;4;XOX_OXOX_;9;0;5;0.0051
+Humano começa;Poda Alfa-Beta;4;XOX_OXOX_;9;0;5;0.0081
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0058
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0068
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0056
+Humano começa;Minimax;3;_OX__XOX_;9;0;51;0.0867
+Humano começa;Poda Alfa-Beta;3;_OX__XOX_;9;0;47;0.0878
+Humano começa;Minimax;4;XOX__XOXO;4;0;5;0.0049
+Humano começa;Poda Alfa-Beta;4;XOX__XOXO;4;0;5;0.0053
+Humano começa;Minimax;4;_OXX_XOXO;5;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;_OXX_XOXO;5;0;5;0.0048
+Humano começa;Minimax;4;_OX_XXOXO;4;0;5;0.0043
+Humano começa;Poda Alfa-Beta;4;_OX_XXOXO;4;0;5;0.0046
+Humano começa;Minimax;3;_O_X_XOX_;5;0;47;0.0437
+Humano começa;Poda Alfa-Beta;3;_O_X_XOX_;5;0;36;0.0387
+Humano começa;Minimax;4;XO_XOXOX_;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XO_XOXOX_;3;1;4;0.0036
+Humano começa;Minimax;4;_OXXOXOX_;9;0;5;0.0054
+Humano começa;Poda Alfa-Beta;4;_OXXOXOX_;9;0;5;0.0049
+Humano começa;Minimax;4;_O_XOXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;_O_XOXOXX;3;1;4;0.0034
+Humano começa;Minimax;3;_O__XXOX_;4;0;47;0.0429
+Humano começa;Poda Alfa-Beta;3;_O__XXOX_;4;0;31;0.0316
+Humano começa;Minimax;4;XO_OXXOX_;9;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;XO_OXXOX_;9;0;5;0.0050
+Humano começa;Minimax;4;_OXOXXOX_;1;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;_OXOXXOX_;1;1;4;0.0033
+Humano começa;Minimax;4;_O_OXXOXX;1;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;_O_OXXOXX;1;1;4;0.0032
+Humano começa;Minimax;3;_O___XOXX;3;1;43;0.0386
+Humano começa;Poda Alfa-Beta;3;_O___XOXX;3;1;27;0.0278
+Humano começa;Minimax;4;XOO__XOXX;5;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XOO__XOXX;5;1;4;0.0037
+Humano começa;Minimax;4;_OOX_XOXX;1;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;_OOX_XOXX;1;1;3;0.0018
+Humano começa;Minimax;4;_OO_XXOXX;1;1;4;0.0029
+Humano começa;Poda Alfa-Beta;4;_OO_XXOXX;1;1;4;0.0030
+Humano começa;Minimax;2;_O____XX_;9;0;1019;1.0077
+Humano começa;Poda Alfa-Beta;2;_O____XX_;9;0;255;0.3019
+Humano começa;Minimax;3;XO____XXO;4;0;51;0.0516
+Humano começa;Poda Alfa-Beta;3;XO____XXO;4;0;33;0.0392
+Humano começa;Minimax;4;XOXO__XXO;5;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOXO__XXO;5;0;5;0.0051
+Humano começa;Minimax;4;XO_OX_XXO;3;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;XO_OX_XXO;3;0;5;0.0051
+Humano começa;Minimax;4;XO_O_XXXO;3;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XO_O_XXXO;3;0;5;0.0052
+Humano começa;Minimax;3;_OX___XXO;5;0;49;0.0486
+Humano começa;Poda Alfa-Beta;3;_OX___XXO;5;0;33;0.0374
+Humano começa;Minimax;4;XOX_O_XXO;4;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;XOX_O_XXO;4;0;5;0.0049
+Humano começa;Minimax;4;_OXXO_XXO;1;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;_OXXO_XXO;1;1;4;0.0032
+Humano começa;Minimax;4;_OX_OXXXO;1;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;_OX_OXXXO;1;1;4;0.0036
+Humano começa;Minimax;3;_O_X__XXO;1;1;43;0.0405
+Humano começa;Poda Alfa-Beta;3;_O_X__XXO;1;1;16;0.0155
+Humano começa;Minimax;4;OOXX__XXO;5;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOXX__XXO;5;1;4;0.0035
+Humano começa;Minimax;4;OO_XX_XXO;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;OO_XX_XXO;3;1;4;0.0031
+Humano começa;Minimax;4;OO_X_XXXO;3;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;OO_X_XXXO;3;1;3;0.0017
+Humano começa;Minimax;3;_O__X_XXO;3;1;45;0.0413
+Humano começa;Poda Alfa-Beta;3;_O__X_XXO;3;1;27;0.0376
+Humano começa;Minimax;4;XOO_X_XXO;6;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;XOO_X_XXO;6;1;4;0.0062
+Humano começa;Minimax;4;_OOXX_XXO;1;1;3;0.0028
+Humano começa;Poda Alfa-Beta;4;_OOXX_XXO;1;1;3;0.0027
+Humano começa;Minimax;4;_OO_XXXXO;1;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;_OO_XXXXO;1;1;4;0.0054
+Humano começa;Minimax;3;_O___XXXO;1;1;57;0.0907
+Humano começa;Poda Alfa-Beta;3;_O___XXXO;1;1;28;0.0530
+Humano começa;Minimax;4;OOX__XXXO;5;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OOX__XXXO;5;1;4;0.0059
+Humano começa;Minimax;4;OO_X_XXXO;3;1;3;0.0025
+Humano começa;Poda Alfa-Beta;4;OO_X_XXXO;3;1;3;0.0030
+Humano começa;Minimax;4;OO__XXXXO;3;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;OO__XXXXO;3;1;4;0.0052
+Humano começa;Minimax;2;_O_____XX;7;0;1019;1.0221
+Humano começa;Poda Alfa-Beta;2;_O_____XX;7;0;309;0.3593
+Humano começa;Minimax;3;XO____OXX;5;0;49;0.0486
+Humano começa;Poda Alfa-Beta;3;XO____OXX;5;0;32;0.0379
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0052
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0036
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0033
+Humano começa;Minimax;3;_OX___OXX;6;0;51;0.0510
+Humano começa;Poda Alfa-Beta;3;_OX___OXX;6;0;40;0.0462
+Humano começa;Minimax;4;XOX__OOXX;5;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;XOX__OOXX;5;0;5;0.0050
+Humano começa;Minimax;4;_OXX_OOXX;1;0;5;0.0050
+Humano começa;Poda Alfa-Beta;4;_OXX_OOXX;1;0;5;0.0051
+Humano começa;Minimax;4;_OX_XOOXX;1;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;_OX_XOOXX;1;0;5;0.0049
+Humano começa;Minimax;3;_O_X__OXX;3;1;57;0.0561
+Humano começa;Poda Alfa-Beta;3;_O_X__OXX;3;1;31;0.0339
+Humano começa;Minimax;4;XOOX__OXX;5;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;XOOX__OXX;5;1;4;0.0040
+Humano começa;Minimax;4;_OOXX_OXX;1;1;4;0.0030
+Humano começa;Poda Alfa-Beta;4;_OOXX_OXX;1;1;4;0.0031
+Humano começa;Minimax;4;_OOX_XOXX;1;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;_OOX_XOXX;1;1;3;0.0017
+Humano começa;Minimax;3;_O__X_OXX;1;1;45;0.0406
+Humano começa;Poda Alfa-Beta;3;_O__X_OXX;1;1;16;0.0163
+Humano começa;Minimax;4;OOX_X_OXX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;OOX_X_OXX;4;1;4;0.0034
+Humano começa;Minimax;4;OO_XX_OXX;3;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OO_XX_OXX;3;1;4;0.0034
+Humano começa;Minimax;4;OO__XXOXX;3;1;3;0.0024
+Humano começa;Poda Alfa-Beta;4;OO__XXOXX;3;1;3;0.0026
+Humano começa;Minimax;3;_O___XOXX;3;1;43;0.0614
+Humano começa;Poda Alfa-Beta;3;_O___XOXX;3;1;27;0.0477
+Humano começa;Minimax;4;XOO__XOXX;5;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;XOO__XOXX;5;1;4;0.0058
+Humano começa;Minimax;4;_OOX_XOXX;1;1;3;0.0029
+Humano começa;Poda Alfa-Beta;4;_OOX_XOXX;1;1;3;0.0028
+Humano começa;Minimax;4;_OO_XXOXX;1;1;4;0.0049
+Humano começa;Poda Alfa-Beta;4;_OO_XXOXX;1;1;4;0.0050
+Humano começa;Minimax;1;________X;5;0;59705;77.8193
+Humano começa;Poda Alfa-Beta;1;________X;5;0;3957;5.6793
+Humano começa;Minimax;2;X___O___X;2;0;1053;1.4233
+Humano começa;Poda Alfa-Beta;2;X___O___X;2;0;318;0.5865
+Humano começa;Minimax;3;XOX_O___X;6;1;34;0.0502
+Humano começa;Poda Alfa-Beta;3;XOX_O___X;6;1;22;0.0332
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0059
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0030
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0025
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0053
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0057
+Humano começa;Minimax;3;XO_XO___X;7;1;34;0.0499
+Humano começa;Poda Alfa-Beta;3;XO_XO___X;7;1;25;0.0437
+Humano começa;Minimax;4;XOXXO_O_X;8;1;4;0.0054
+Humano começa;Poda Alfa-Beta;4;XOXXO_O_X;8;1;4;0.0057
+Humano começa;Minimax;4;XO_XOXO_X;3;1;3;0.0030
+Humano começa;Poda Alfa-Beta;4;XO_XOXO_X;3;1;3;0.0031
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0055
+Humano começa;Minimax;3;XO__OX__X;3;1;34;0.0492
+Humano começa;Poda Alfa-Beta;3;XO__OX__X;3;1;18;0.0278
+Humano começa;Minimax;4;XOOXOX__X;7;1;3;0.0028
+Humano começa;Poda Alfa-Beta;4;XOOXOX__X;7;1;3;0.0029
+Humano começa;Minimax;4;XOO_OXX_X;8;1;4;0.0044
+Humano começa;Poda Alfa-Beta;4;XOO_OXX_X;8;1;4;0.0061
+Humano começa;Minimax;4;XOO_OX_XX;7;1;4;0.0045
+Humano começa;Poda Alfa-Beta;4;XOO_OX_XX;7;1;4;0.0047
+Humano começa;Minimax;3;XO__O_X_X;8;1;24;0.0287
+Humano começa;Poda Alfa-Beta;3;XO__O_X_X;8;1;22;0.0323
+Humano começa;Minimax;3;XO__O__XX;7;0;47;0.0682
+Humano começa;Poda Alfa-Beta;3;XO__O__XX;7;0;42;0.0751
+Humano começa;Minimax;4;XOX_O_OXX;6;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;XOX_O_OXX;6;0;5;0.0080
+Humano começa;Minimax;4;XO_XO_OXX;3;1;4;0.0049
+Humano começa;Poda Alfa-Beta;4;XO_XO_OXX;3;1;4;0.0056
+Humano começa;Minimax;4;XO__OXOXX;3;1;4;0.0052
+Humano começa;Poda Alfa-Beta;4;XO__OXOXX;3;1;4;0.0061
+Humano começa;Minimax;2;_X__O___X;1;0;1277;2.0633
+Humano começa;Poda Alfa-Beta;2;_X__O___X;1;0;359;0.4160
+Humano começa;Minimax;3;OXX_O___X;6;0;47;0.0733
+Humano começa;Poda Alfa-Beta;3;OXX_O___X;6;0;29;0.0545
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0075
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0080
+Humano começa;Minimax;4;OXX_OOX_X;4;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;OXX_OOX_X;4;1;4;0.0051
+Humano começa;Minimax;4;OXX_OO_XX;4;1;4;0.0044
+Humano começa;Poda Alfa-Beta;4;OXX_OO_XX;4;1;4;0.0050
+Humano começa;Minimax;3;OX_XO___X;3;0;61;0.1044
+Humano começa;Poda Alfa-Beta;3;OX_XO___X;3;0;33;0.0648
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0056
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0060
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0077
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0080
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0060
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0052
+Humano começa;Minimax;3;OX__OX__X;3;0;47;0.0746
+Humano começa;Poda Alfa-Beta;3;OX__OX__X;3;0;21;0.0393
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0052
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0055
+Humano começa;Minimax;4;OXO_OXX_X;8;0;5;0.0065
+Humano começa;Poda Alfa-Beta;4;OXO_OXX_X;8;0;5;0.0070
+Humano começa;Minimax;4;OXO_OX_XX;7;1;4;0.0048
+Humano começa;Poda Alfa-Beta;4;OXO_OX_XX;7;1;4;0.0049
+Humano começa;Minimax;3;OX__O_X_X;8;0;51;0.0636
+Humano começa;Poda Alfa-Beta;3;OX__O_X_X;8;0;46;0.0517
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0049
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0052
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0049
+Humano começa;Minimax;3;OX__O__XX;7;1;43;0.0389
+Humano começa;Poda Alfa-Beta;3;OX__O__XX;7;1;40;0.0413
+Humano começa;Minimax;4;OXX_O_OXX;4;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OXX_O_OXX;4;1;4;0.0034
+Humano começa;Minimax;4;OX_XO_OXX;3;1;4;0.0034
+Humano começa;Poda Alfa-Beta;4;OX_XO_OXX;3;1;4;0.0035
+Humano começa;Minimax;4;OX__OXOXX;3;1;3;0.0018
+Humano começa;Poda Alfa-Beta;4;OX__OXOXX;3;1;3;0.0019
+Humano começa;Minimax;2;__X_O___X;6;0;927;0.9612
+Humano começa;Poda Alfa-Beta;2;__X_O___X;6;0;275;0.3048
+Humano começa;Minimax;3;X_X_OO__X;2;1;34;0.0295
+Humano começa;Poda Alfa-Beta;3;X_X_OO__X;2;1;15;0.0141
+Humano começa;Minimax;4;XOXXOO__X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOXXOO__X;8;1;4;0.0035
+Humano começa;Minimax;4;XOX_OOX_X;4;1;3;0.0016
+Humano começa;Poda Alfa-Beta;4;XOX_OOX_X;4;1;3;0.0017
+Humano começa;Minimax;4;XOX_OO_XX;4;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOX_OO_XX;4;1;4;0.0032
+Humano começa;Minimax;3;_XX_OO__X;4;1;38;0.0344
+Humano começa;Poda Alfa-Beta;3;_XX_OO__X;4;1;16;0.0157
+Humano começa;Minimax;3;__XXOO__X;1;0;61;0.0589
+Humano começa;Poda Alfa-Beta;3;__XXOO__X;1;0;47;0.0529
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0053
+Humano começa;Minimax;4;O_XXOOX_X;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;O_XXOOX_X;8;0;5;0.0049
+Humano começa;Minimax;4;O_XXOO_XX;7;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;O_XXOO_XX;7;0;5;0.0047
+Humano começa;Minimax;3;__X_OOX_X;4;1;34;0.0299
+Humano começa;Poda Alfa-Beta;3;__X_OOX_X;4;1;26;0.0247
+Humano começa;Minimax;3;__X_OO_XX;4;1;38;0.0353
+Humano começa;Poda Alfa-Beta;3;__X_OO_XX;4;1;29;0.0295
+Humano começa;Minimax;2;___XO___X;1;0;1277;1.2509
+Humano começa;Poda Alfa-Beta;2;___XO___X;1;0;451;0.5441
+Humano começa;Minimax;3;OX_XO___X;3;0;61;0.0738
+Humano começa;Poda Alfa-Beta;3;OX_XO___X;3;0;33;0.0381
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0038
+Humano começa;Minimax;4;OXOXO_X_X;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXOXO_X_X;8;0;5;0.0048
+Humano começa;Minimax;4;OXOXO__XX;7;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;OXOXO__XX;7;1;4;0.0034
+Humano começa;Minimax;3;O_XXO___X;6;0;51;0.0517
+Humano começa;Poda Alfa-Beta;3;O_XXO___X;6;0;37;0.0441
+Humano começa;Minimax;4;OXXXOO__X;7;0;5;0.0082
+Humano começa;Poda Alfa-Beta;4;OXXXOO__X;7;0;5;0.0080
+Humano começa;Minimax;4;O_XXOOX_X;8;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;O_XXOOX_X;8;0;5;0.0050
+Humano começa;Minimax;4;O_XXOO_XX;7;0;5;0.0044
+Humano começa;Poda Alfa-Beta;4;O_XXOO_XX;7;0;5;0.0047
+Humano começa;Minimax;3;O__XOX__X;3;1;43;0.0405
+Humano começa;Poda Alfa-Beta;3;O__XOX__X;3;1;27;0.0294
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0036
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0038
+Humano começa;Minimax;4;O_OXOXX_X;2;1;4;0.0031
+Humano começa;Poda Alfa-Beta;4;O_OXOXX_X;2;1;4;0.0032
+Humano começa;Minimax;4;O_OXOX_XX;2;1;3;0.0017
+Humano começa;Poda Alfa-Beta;4;O_OXOX_XX;2;1;3;0.0018
+Humano começa;Minimax;3;O__XO_X_X;8;0;47;0.0445
+Humano começa;Poda Alfa-Beta;3;O__XO_X_X;8;0;40;0.0436
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0048
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0050
+Humano começa;Minimax;4;O_XXO_XOX;2;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;O_XXO_XOX;2;1;4;0.0034
+Humano começa;Minimax;4;O__XOXXOX;2;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;O__XOXXOX;2;1;4;0.0035
+Humano começa;Minimax;3;O__XO__XX;7;0;47;0.0452
+Humano começa;Poda Alfa-Beta;3;O__XO__XX;7;0;44;0.0487
+Humano começa;Minimax;4;OX_XO_OXX;3;1;4;0.0035
+Humano começa;Poda Alfa-Beta;4;OX_XO_OXX;3;1;4;0.0039
+Humano começa;Minimax;4;O_XXO_OXX;6;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;O_XXO_OXX;6;0;5;0.0049
+Humano começa;Minimax;4;O__XOXOXX;3;1;4;0.0032
+Humano começa;Poda Alfa-Beta;4;O__XOXOXX;3;1;4;0.0034
+Humano começa;Minimax;2;____OX__X;3;0;935;1.0224
+Humano começa;Poda Alfa-Beta;2;____OX__X;3;0;279;0.4541
+Humano começa;Minimax;3;X_O_OX__X;2;1;40;0.0636
+Humano começa;Poda Alfa-Beta;3;X_O_OX__X;2;1;24;0.0262
+Humano começa;Minimax;4;XOOXOX__X;7;1;3;0.0019
+Humano começa;Poda Alfa-Beta;4;XOOXOX__X;7;1;3;0.0021
+Humano começa;Minimax;4;XOO_OXX_X;8;1;4;0.0033
+Humano começa;Poda Alfa-Beta;4;XOO_OXX_X;8;1;4;0.0051
+Humano começa;Minimax;4;XOO_OX_XX;7;1;4;0.0046
+Humano começa;Poda Alfa-Beta;4;XOO_OX_XX;7;1;4;0.0046
+Humano começa;Minimax;3;_XO_OX__X;7;1;44;0.0702
+Humano começa;Poda Alfa-Beta;3;_XO_OX__X;7;1;31;0.0357
+Humano começa;Minimax;3;__OXOX__X;1;1;36;0.0355
+Humano começa;Poda Alfa-Beta;3;__OXOX__X;1;1;19;0.0313
+Humano começa;Minimax;4;OXOXOX__X;7;1;4;0.0060
+Humano começa;Poda Alfa-Beta;4;OXOXOX__X;7;1;4;0.0065
+Humano começa;Minimax;4;O_OXOXX_X;2;1;4;0.0051
+Humano começa;Poda Alfa-Beta;4;O_OXOXX_X;2;1;4;0.0050
+Humano começa;Minimax;4;O_OXOX_XX;2;1;3;0.0032
+Humano começa;Poda Alfa-Beta;4;O_OXOX_XX;2;1;3;0.0030
+Humano começa;Minimax;3;__O_OXX_X;8;0;47;0.0705
+Humano começa;Poda Alfa-Beta;3;__O_OXX_X;8;0;43;0.0666
+Humano começa;Minimax;4;X_O_OXXOX;2;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;X_O_OXXOX;2;1;4;0.0053
+Humano começa;Minimax;4;_XO_OXXOX;1;0;5;0.0071
+Humano começa;Poda Alfa-Beta;4;_XO_OXXOX;1;0;5;0.0083
+Humano começa;Minimax;4;__OXOXXOX;2;1;4;0.0050
+Humano começa;Poda Alfa-Beta;4;__OXOXXOX;2;1;4;0.0052
+Humano começa;Minimax;3;__O_OX_XX;7;1;30;0.0410
+Humano começa;Poda Alfa-Beta;3;__O_OX_XX;7;1;28;0.0452
+Humano começa;Minimax;2;____O_X_X;8;0;927;1.1079
+Humano começa;Poda Alfa-Beta;2;____O_X_X;8;0;453;0.5444
+Humano começa;Minimax;3;X___O_XOX;2;1;34;0.0302
+Humano começa;Poda Alfa-Beta;3;X___O_XOX;2;1;18;0.0189
+Humano começa;Minimax;3;_X__O_XOX;1;0;61;0.0974
+Humano começa;Poda Alfa-Beta;3;_X__O_XOX;1;0;47;0.0881
+Humano começa;Minimax;4;OXX_O_XOX;6;0;5;0.0046
+Humano começa;Poda Alfa-Beta;4;OXX_O_XOX;6;0;5;0.0051
+Humano começa;Minimax;4;OX_XO_XOX;3;0;5;0.0047
+Humano começa;Poda Alfa-Beta;4;OX_XO_XOX;3;0;5;0.0051
+Humano começa;Minimax;4;OX__OXXOX;3;0;5;0.0045
+Humano começa;Poda Alfa-Beta;4;OX__OXXOX;3;0;5;0.0049
+Humano começa;Minimax;3;__X_O_XOX;2;1;34;0.0299
+Humano começa;Poda Alfa-Beta;3;__X_O_XOX;2;1;19;0.0305
+Humano começa;Minimax;3;___XO_XOX;2;1;38;0.0388
+Humano começa;Poda Alfa-Beta;3;___XO_XOX;2;1;16;0.0170
+Humano começa;Minimax;3;____OXXOX;2;1;38;0.0371
+Humano começa;Poda Alfa-Beta;3;____OXXOX;2;1;21;0.0215
+Humano começa;Minimax;2;____O__XX;7;0;935;1.0376
+Humano começa;Poda Alfa-Beta;2;____O__XX;7;0;576;0.9393
+Humano começa;Minimax;3;X___O_OXX;3;1;40;0.0579
+Humano começa;Poda Alfa-Beta;3;X___O_OXX;3;1;20;0.0329
+Humano começa;Minimax;3;_X__O_OXX;1;1;36;0.0498
+Humano começa;Poda Alfa-Beta;3;_X__O_OXX;1;1;19;0.0313
+Humano começa;Minimax;4;OXX_O_OXX;4;1;4;0.0052
+Humano começa;Poda Alfa-Beta;4;OXX_O_OXX;4;1;4;0.0055
+Humano começa;Minimax;4;OX_XO_OXX;3;1;4;0.0055
+Humano começa;Poda Alfa-Beta;4;OX_XO_OXX;3;1;4;0.0051
+Humano começa;Minimax;4;OX__OXOXX;3;1;3;0.0026
+Humano começa;Poda Alfa-Beta;4;OX__OXOXX;3;1;3;0.0030
+Humano começa;Minimax;3;__X_O_OXX;6;0;47;0.0686
+Humano começa;Poda Alfa-Beta;3;__X_O_OXX;6;0;46;0.0730
+Humano começa;Minimax;4;X_X_OOOXX;4;1;4;0.0042
+Humano começa;Poda Alfa-Beta;4;X_X_OOOXX;4;1;4;0.0048
+Humano começa;Minimax;4;_XX_OOOXX;4;1;4;0.0044
+Humano começa;Poda Alfa-Beta;4;_XX_OOOXX;4;1;4;0.0050
+Humano começa;Minimax;4;__XXOOOXX;1;0;5;0.0069
+Humano começa;Poda Alfa-Beta;4;__XXOOOXX;1;0;5;0.0072
+Humano começa;Minimax;3;___XO_OXX;3;1;44;0.0659
+Humano começa;Poda Alfa-Beta;3;___XO_OXX;3;1;31;0.0526
+Humano começa;Minimax;3;____OXOXX;3;1;30;0.0405
+Humano começa;Poda Alfa-Beta;3;____OXOXX;3;1;21;0.0324
