@@ -26,17 +26,17 @@ Software jogador de Jogo da Velha que usa **busca adversarial** (Minimax e Poda 
 
 ## Sumário
 
-1. [Sobre o trabalho](#-sobre-o-trabalho)
-2. [Funcionalidades](#-funcionalidades)
-3. [Estrutura do repositório](#-estrutura-do-repositório)
-4. [Requisitos](#-requisitos)
-5. [Como usar](#-como-usar)
-6. [Como o programa funciona](#-como-o-programa-funciona)
-7. [Resultados dos experimentos](#-resultados-dos-experimentos)
-8. [Testes automáticos](#-testes-automáticos)
-9. [Relatório](#-relatório)
-10. [Decisões de implementação](#-decisões-de-implementação)
-11. [Referências](#-referências)
+1. [Sobre o trabalho](#sobre-o-trabalho)
+2. [Funcionalidades](#funcionalidades)
+3. [Estrutura do repositório](#estrutura-do-repositório)
+4. [Requisitos](#requisitos)
+5. [Como usar](#como-usar)
+6. [Como o programa funciona](#como-o-programa-funciona)
+7. [Resultados dos experimentos](#resultados-dos-experimentos)
+8. [Testes automáticos](#testes-automáticos)
+9. [Relatório](#relatório)
+10. [Decisões de implementação](#decisões-de-implementação)
+11. [Referências](#referências)
 
 ---
 
@@ -68,22 +68,21 @@ O programa deve ter dois modos de funcionamento (**Humano x Computador** e **Com
 
 ```
 .
-├── README.md                       # este arquivo
-├── LEIA-ME.txt                     # resumo de uso em texto simples
-├── Relatorio_Jogo_da_Velha.docx    # relatório do trabalho
+├── README.md                          # este arquivo
+├── Relatorio_Jogo_da_Velha.pdf        # relatório (artigo no formato SBC)
 ├── codigo/
-│   ├── jogo.py                     # programa principal (menu e modos de jogo)
-│   ├── algoritmos.py               # regras do jogo, Minimax e Poda Alfa-Beta
-│   ├── experimentos.py             # coleta de dados e geração de gráficos
-│   ├── testes.py                   # testes automáticos
-│   └── requirements.txt            # dependência opcional (matplotlib)
+│   ├── jogo.py                        # programa principal (menu e modos de jogo)
+│   ├── algoritmos.py                  # regras do jogo, Minimax e Poda Alfa-Beta
+│   ├── experimentos.py                # coleta de dados e geração de gráficos
+│   ├── testes.py                      # testes automáticos
+│   └── requirements.txt               # dependência opcional (matplotlib)
 └── resultados/
     ├── grafico1_nos_por_jogada.png
     ├── grafico2_tempo_por_jogada.png
     ├── grafico3_totais_por_partida.png
     ├── grafico4_reducao_percentual.png
     ├── grafico5_resultados_das_partidas.png
-    ├── decisoes_detalhadas.csv     # todas as decisões medidas
+    ├── decisoes_detalhadas.csv        # todas as decisões medidas
     ├── resumo_por_jogada.csv
     ├── resumo_por_partida.csv
     └── resumo.json
@@ -130,7 +129,7 @@ Menu principal
   0) Sair
 ```
 
-####  Modo 1: Humano x Computador
+#### Modo 1: Humano x Computador
 
 1. Escolha o **algoritmo do computador** (Minimax ou Poda Alfa-Beta).
 2. Escolha **quem começa** (humano ou computador). Quem começa joga com **X**.
@@ -146,7 +145,7 @@ Menu principal
 
 A cada jogada do computador, o programa mostra a casa escolhida, os **nós visitados** e o **tempo** gasto.
 
-####  Modo 2: Computador x Computador
+#### Modo 2: Computador x Computador
 
 1. Escolha o **algoritmo do Computador 1** e do **Computador 2**.
 2. Escolha **qual deles começa** (o que começa joga com **X**).
@@ -185,7 +184,7 @@ Computador (O) jogou na casa 5  [2.338 nós visitados, 2,970 ms]
 
 ---
 
-##  Como o programa funciona
+## Como o programa funciona
 
 ### Formulação do problema
 
@@ -285,7 +284,7 @@ Os testes verificam:
 
 ## Relatório
 
-O arquivo [`Relatorio_Jogo_da_Velha.pdf`](Relatorio_Jogo_da_Velha.pdf) contém:
+O arquivo [`Relatorio_Jogo_da_Velha.pdf`](Relatorio_Jogo_da_Velha.pdf), escrito no formato de artigo da SBC, contém:
 
 1. Introdução
 2. Formulação do problema
@@ -320,4 +319,4 @@ O arquivo [`Relatorio_Jogo_da_Velha.pdf`](Relatorio_Jogo_da_Velha.pdf) contém:
 Desenvolvido por **José Neres** como trabalho da disciplina de **Inteligência Artificial** — IFPI Campus Picos, 2026.
 
 
-> ℹProjeto acadêmico, desenvolvido para fins de estudo.
+> Projeto acadêmico, desenvolvido para fins de estudo.
